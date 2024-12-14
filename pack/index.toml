@@ -984,14 +984,6 @@ hash = "5cc0a4bdc2245793c2f6c7c6e3ae21bd577c65c56e01b55b3dcbd0be8cda5565"
 metafile = true
 
 [[files]]
-file = "resources/Armor_Icons_for_Dragons_2.zip"
-hash = "9e5ea1bb8d10b5e78c3f0524c11b5cf316ae779fe0737d3509d971316ca71d59"
-
-[[files]]
-file = "resources/ComputerCraft Bronze V1.1-fixed.zip"
-hash = "2f9f5a07018867f7b644c66d778ac3e170bd774fb36d26649f0ec59bc2a85073"
-
-[[files]]
 file = "resources/pack_credits.txt"
 hash = "231fd4b79527eeb98a6174efa3d50f464a527a6507fc30a71500ed9c3995ca17"
 
