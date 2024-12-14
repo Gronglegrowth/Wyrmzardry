@@ -884,6 +884,16 @@ hash = "eb7fb878f669cc17a22d19902fe96cdcfe541a9cf7d03eb7244fc11e13713b61"
 metafile = true
 
 [[files]]
+file = "mods/styled-chat.pw.toml"
+hash = "18cb5a5474406d7af310b53c93a983ffa608b03213f9d325e81dff3239566eb1"
+metafile = true
+
+[[files]]
+file = "mods/styled-nicknames.pw.toml"
+hash = "274b84b0e258d26e57d647506d0d1995da1fd82cecbedbe98caeedd45faa4d23"
+metafile = true
+
+[[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
 hash = "3eede8a7ebafb69840153ff51dbc879b0232799e90a834ab6d71274b1316179f"
 metafile = true
