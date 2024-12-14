@@ -1,12 +1,12 @@
 name = "Wyrmzardry"
-author = "Eset Kalenko"
+author = "EsetKalenko"
 version = "v1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "ca4099eb789ab6e4b04593bb6badba61c53c22a5c71487566e63cf080d2da483"
+hash = "0e29a18f9257c4dc8819bcf97f8a8f90a2e9e0e6585e187ded6d355fcb4f5e3b"
 
 [versions]
 forge = "47.3.10"

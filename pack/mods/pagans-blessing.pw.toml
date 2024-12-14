@@ -1,13 +1,13 @@
-filename = 'paganbless-0.1.1.jar'
-name = 'Pagans Blessing'
-side = 'both'
+name = "Pagan's blessing"
+filename = "paganbless-0.1.1.jar"
+side = "both"
 
 [download]
-hash = '20242e8dd46d7b5b11edd15fb17776a4157c2de0f7f04e2556a8897f844685de45817f1e438b65b60d0e152facdd092629a51a43143b14eebc43bad918567ddd'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/ajtQcgfO/versions/rnvI4S7C/paganbless-0.1.1.jar'
+hash-format = "sha1"
+hash = "6fd68e3bd48e5664398c45f321dfbd68335eb524"
+mode = "metadata:curseforge"
 
-[update.modrinth]
-mod-id = 'ajtQcgfO'
-version = 'rnvI4S7C'
+[update]
+[update.curseforge]
+file-id = 5548370
+project-id = 952071

@@ -1,16 +1,13 @@
-filename = 'accessories-neoforge-1.0.0-beta.42+1.20.1.jar'
-name = 'Accessories'
-side = 'both'
-x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'beta'
+name = "Accessories"
+filename = "accessories-neoforge-1.0.0-beta.42+1.20.1.jar"
+side = "both"
 
 [download]
-hash = '5f2dcb7aa2f0e0e23afab5ba6cca1e69c3bd4ad65961e4d4df6be1faaff7ba4f02dafe1f5d3b327c32748679ba0c0f7363e40cc2903e407377e176126cb75f30'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/jtmvUHXj/versions/1MWeROAl/accessories-neoforge-1.0.0-beta.42%2B1.20.1.jar'
+hash-format = "sha1"
+hash = "f0d2d71cac8d74f21ea4fb196114bd970c9b7f1d"
+mode = "metadata:curseforge"
 
-[update.modrinth]
-mod-id = 'jtmvUHXj'
-version = '1MWeROAl'
+[update]
+[update.curseforge]
+file-id = 5869425
+project-id = 938917
