@@ -1,0 +1,33 @@
+{
+  "type": "spectrum:pedestal",
+  "time": 2400,
+  "tier": "complex",
+  "magenta": 16,
+  "yellow": 0,
+  "cyan": 0,
+  "black": 0,
+  "white": 4,
+  "experience": 4.0,
+  "pattern": [
+    "PAP",
+    "ACA",
+    "PSP"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:amethyst_shard"
+    },
+    "C": {
+      "item": "spectrum:paltaeria_gem"
+    },
+    "P": {
+      "item": "spectrum:magenta_pigment"
+    },
+    "S": { "item": "crossroads:sigil_technomancy" }
+  },
+  "result": {
+    "item": "spectrum:celestial_pocketwatch",
+    "count": 1
+  },
+  "required_advancement": "spectrum:unlocks/items/celestial_pocketwatch"
+}

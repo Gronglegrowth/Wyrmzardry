@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": {
+      "item": "xycraft_machines:machine_base"
+    },
+    "D": {
+      "tag": "wyrmzardry:fertile_soils"
+    },
+    "K": {
+      "tag": "xycraft:building/kivi"
+    },
+    "W": {
+      "item": "minecraft:water_bucket"
+    },
+    "X": {
+      "tag": "forge:gems/xychorium_green"
+    }
+  },
+  "pattern": [
+    "XDX",
+    "KWK",
+    "XBX"
+  ],
+  "result": {
+    "item": "xycraft_machines:planter"
+  },
+  "show_notification": true
+}

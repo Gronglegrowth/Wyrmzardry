@@ -1,0 +1,10 @@
+{
+	"type": "crossroads:mill",
+	"input": {
+		"item": "spectrum:citrine_shard"
+	},
+	"output": {
+		"item": "spectrum:citrine_powder",
+		"count": 2
+	}
+}

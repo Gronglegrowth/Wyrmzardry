@@ -1,0 +1,8 @@
+{
+	"type": "crossroads:fluid_cooling",
+	"tag": "forge:molten_lead",
+	"fluid_amount": 90,
+	"item": "eidolon:lead_ingot",
+	"max_temp": 1500,
+	"temp_change": 100
+}

@@ -1,0 +1,13 @@
+name = "Pagan's blessing"
+filename = "paganbless-0.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6fd68e3bd48e5664398c45f321dfbd68335eb524"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5548370
+project-id = 952071

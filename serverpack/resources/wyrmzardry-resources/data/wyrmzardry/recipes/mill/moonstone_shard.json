@@ -1,0 +1,10 @@
+{
+	"type": "crossroads:mill",
+	"input": {
+		"item": "spectrum:moonstone_shard"
+	},
+	"output": {
+		"item": "spectrum:moonstone_powder",
+		"count": 2
+	}
+}

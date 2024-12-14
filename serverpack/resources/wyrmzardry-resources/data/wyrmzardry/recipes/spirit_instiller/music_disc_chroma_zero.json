@@ -1,0 +1,73 @@
+{
+  "type": "spectrum:spirit_instiller",
+  "time": 1200,
+  "experience": 4.0,
+  "ingredient1": {
+    "tag": "minecraft:music_discs"
+  },
+  "ingredient2": {
+    "item": "spectrum:resonance_shard"
+  },
+  "center_ingredient": {
+    "item": "crossroads:lens_array"
+  },
+  "result": {
+    "item": "etched:etched_music_disc",
+    "nbt": {
+      "Pattern": "0b",
+      "Album": {
+		"Title": "Chroma Zero (Original Soundtrack)",
+        "Author": "Adam Kromelow, Dan Rufolo",
+        "Url": "https://adamkromelow.bandcamp.com/album/chroma-zero-original-soundtrack"
+	  },
+      "LabelColor": {
+        "Secondary": 378885,
+        "Primary": 2300400
+      },
+      "Music": [
+        {
+          "Title": "Prologue",
+          "Author": "Adam Kromelow, Dan Rufolo",
+          "Url": "https://adamkromelow.bandcamp.com/track/prologue"
+        },
+        {
+          "Title": "Red Ring",
+          "Author": "Adam Kromelow, Dan Rufolo",
+          "Url": "https://adamkromelow.bandcamp.com/track/red-ring"
+        },
+        {
+          "Title": "Green Ring",
+          "Author": "Adam Kromelow, Dan Rufolo",
+          "Url": "https://adamkromelow.bandcamp.com/track/green-ring"
+        },
+        {
+          "Title": "Destruction",
+          "Author": "Adam Kromelow, Dan Rufolo",
+          "Url": "https://adamkromelow.bandcamp.com/track/destruction"
+        },
+        {
+          "Title": "Interlude",
+          "Author": "Adam Kromelow, Dan Rufolo",
+          "Url": "https://adamkromelow.bandcamp.com/track/interlude-2"
+        },
+        {
+          "Title": "Blue Ring",
+          "Author": "Adam Kromelow, Dan Rufolo",
+          "Url": "https://adamkromelow.bandcamp.com/track/blue-ring"
+        },
+        {
+          "Title": "Friend",
+          "Author": "Adam Kromelow, Dan Rufolo",
+          "Url": "https://adamkromelow.bandcamp.com/track/friend-2"
+        },
+        {
+          "Title": "Blue Ring (Dark Mix)",
+          "Author": "Adam Kromelow, Dan Rufolo",
+          "Url": "https://adamkromelow.bandcamp.com/track/bonus-track-blue-ring-dark-mix"
+        }
+      ],
+      "DiscColor": 9835525
+    }
+  },
+  "required_advancement": "wyrmzardry:unlocks/music_disc_chroma_zero"
+}

@@ -1,0 +1,10 @@
+{
+	"type": "crossroads:crucible",
+	"input": {
+		"tag": "forge:raw_materials/aluminum"
+	},
+	"output": {
+		"fluid": "embers:molten_aluminum",
+		"amount": 180
+	}
+}

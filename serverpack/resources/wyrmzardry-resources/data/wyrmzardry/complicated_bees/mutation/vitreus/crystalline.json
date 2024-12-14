@@ -1,0 +1,11 @@
+{
+  "first": "complicated_bees:conductive",
+  "second": "complicated_bees:bituminous",
+  "result": "wyrmzardry:crystalline",
+  "chance": 0.10,
+  "conditions": {
+    "complicated_bees:block_under": {
+      "tag": "spectrum:gemstone_blocks"
+    }
+  }
+}

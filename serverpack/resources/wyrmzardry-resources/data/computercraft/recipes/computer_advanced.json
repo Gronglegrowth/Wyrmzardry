@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "B": {"tag": "forge:ingots/bronze"},
+    "Q": {"item": "crossroads:bright_quartz"},
+    "R": {"tag": "forge:dusts/redstone"},
+    "C": { "item": "pneumaticcraft:printed_circuit_board" }
+  },
+  "pattern": ["BBB", "BCQ", "BRB"],
+  "result": {"item": "computercraft:computer_advanced"},
+  "show_notification": true
+}

@@ -1,0 +1,25 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"result": {
+		"item": "crossroads:gear_toggle_inv",
+		"count": 1,
+		"nbt": {
+			"material": "lead"
+		}
+	},
+	"ingredients": [
+		{
+			"item": "minecraft:redstone_torch"
+		},
+		{
+			"type": "forge:nbt",
+			"item": "crossroads:gear_base",
+			"nbt": {
+				"material": "lead"
+			}
+		},
+		{
+			"item": "minecraft:lever"
+		}
+	]
+}

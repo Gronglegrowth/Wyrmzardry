@@ -1,0 +1,13 @@
+{
+  "type": "computercraft:turtle",
+  "category": "redstone",
+  "key": {
+    "B": {"tag": "forge:ingots/bronze"},
+    "Q": {"item": "spectrum:block_detector"},
+    "R": {"tag": "forge:dusts/redstone"},
+    "C": { "item": "pneumaticcraft:printed_circuit_board" }
+  },
+  "pattern": ["BBB", "BCQ", "BRB"],
+  "result": {"item": "computercraft:turtle_advanced"},
+  "show_notification": true
+}

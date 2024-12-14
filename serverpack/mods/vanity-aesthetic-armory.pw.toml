@@ -1,0 +1,13 @@
+name = "Vanity: Aesthetic Armory"
+filename = "vanity_aesthetic_armory-1.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "69f30910d6a723761dbb9f03a4f63ffe98d83e4d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5957409
+project-id = 977009
