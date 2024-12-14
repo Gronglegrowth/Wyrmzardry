@@ -609,11 +609,6 @@ hash = "cc92f50b3809df94d33ec38adff2fe4c5fcc7b159634fe042929dfe6cc5a184e"
 metafile = true
 
 [[files]]
-file = "mods/double-hotbar.pw.toml"
-hash = "4205aeed4b70931de5fddadf072a6e4ae5ac20737ea088019fbbaf4697dbfdd3"
-metafile = true
-
-[[files]]
 file = "mods/dragons-survival.pw.toml"
 hash = "6a3493038a4bddb1e0bbdb208dd50c91bd3c831579d9add4860da9bcc37e9bdd"
 metafile = true
