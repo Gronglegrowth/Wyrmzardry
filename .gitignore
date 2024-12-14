@@ -3,3 +3,5 @@
 *.exe
 *.packwizignore
 packwiz
+serverpack/packwiz
+clientpack/packwiz
