@@ -534,6 +534,11 @@ hash = "3b9cadb751674025809b6d7a24a1637ed38def1011c8e95d4e05e1af8b3d7af8"
 metafile = true
 
 [[files]]
+file = "mods/almost-unified.pw.toml"
+hash = "6c1abc7203698f420023a1655bc803113babd2dc00b2ced0e071de8b46147b5a"
+metafile = true
+
+[[files]]
 file = "mods/amendments.pw.toml"
 hash = "06b855a74316c8f1b5ac9b4b13fbaafc5848502d6ec079a394e7e9db596b3ac1"
 metafile = true
@@ -561,6 +566,11 @@ metafile = true
 [[files]]
 file = "mods/bookshelf.pw.toml"
 hash = "058699e4832d0cf5396c5ea29244100f0c0e39a8d7aa5b64c2afdcc3cb8c8145"
+metafile = true
+
+[[files]]
+file = "mods/cardinal-components-api.pw.toml"
+hash = "6f0676fe7167a5a5e992ac1588e5a7f62bb6ffcaad158d7f1ace220c73adb938"
 metafile = true
 
 [[files]]
@@ -661,6 +671,11 @@ metafile = true
 [[files]]
 file = "mods/etched.pw.toml"
 hash = "a5a5475c903b195bdd5f90808b178fa9285e334338e18db7447a8c734514f496"
+metafile = true
+
+[[files]]
+file = "mods/exclusions-lib.pw.toml"
+hash = "e72e8a42cf7da14c66328ab231e879b66b7a66c9a5f1c557986a999a44c76f69"
 metafile = true
 
 [[files]]
@@ -824,6 +839,11 @@ hash = "e6958cb835e0e110d78eee6efa68f2c3cd0fde36161d5a705556964b93a6f959"
 metafile = true
 
 [[files]]
+file = "mods/restricted-portals.pw.toml"
+hash = "0e0a1ea1e814e9a0620ef9e517180e0a5117d5fb1d8c1bfd9b93a52ca5f73fa5"
+metafile = true
+
+[[files]]
 file = "mods/revelationary.pw.toml"
 hash = "c5aa125c73079c51dfeffa2cb5da8b0e4bb66227895f3457d0583d5542669583"
 metafile = true
@@ -956,6 +976,11 @@ metafile = true
 [[files]]
 file = "mods/zeta.pw.toml"
 hash = "583961055f3e588845076ace49394c9ca830706a73eb1b4a4cbfe4db9f0950e9"
+metafile = true
+
+[[files]]
+file = "mods/zzz-rawr.pw.toml"
+hash = "d186c2aa2bb6bd0001bd576aa98beea24de9dfc239bf8bdc49942223b4d7f364"
 metafile = true
 
 [[files]]
