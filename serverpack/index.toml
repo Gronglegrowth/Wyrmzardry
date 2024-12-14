@@ -418,7 +418,7 @@ hash = "2b21f5a852c0547163355bc57b04c355efc29edea0d693de6b31e65f35c80db2"
 
 [[files]]
 file = "config/simpletomb.toml"
-hash = "d45ab950661f881c237b3682400500123589a04c464867e143fb2ae00db58695"
+hash = "f8b569186f7ac950b0925e0d66c5119213061f365d4943c29f5f677b73adc01c"
 
 [[files]]
 file = "config/specutils.json"

@@ -37,7 +37,7 @@
 		#
 		#When survival player is within this (straight line calculated) distance from the tomb, they can teleport to the tomb.  Set as zero (0) to disable survival TP feature.   Set as negative one (-1) to allow survival teleportation always and ignore the distance (within dimension) 
 		#Range: -1 ~ 128
-		survival = 24
+		survival = 128
 		#
 		#If creative mode players can teleport to the tomb with the key, ignoring distance
 		creative = true
