@@ -1,0 +1,13 @@
+name = "Fluffy Fur"
+filename = "fluffy_fur-1.20.1-0.1.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5fad67e723ac715711ad9ea4b7ae150c1428c6df"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5939755
+project-id = 1097456

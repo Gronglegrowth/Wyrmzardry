@@ -1,0 +1,1979 @@
+hash-format = "sha256"
+
+[[files]]
+file = "Wyrmzardry Changelog.md"
+hash = "90a67873b05e60ee251306ef3aead2f1135d9b4abc77591e9fb92cee8e15b0d2"
+
+[[files]]
+file = "config/EmiLootConfig_v1.json"
+hash = "549a01a4183ce775ff7e3972a31372ce272a2c7d82a563d73053c258c5749eff"
+
+[[files]]
+file = "config/Revelationary.json"
+hash = "ca0a366197dac4c2b35cc04fa65ac608e64d9f3c3555a863ea135aac0eff5957"
+
+[[files]]
+file = "config/Spectrum.json5"
+hash = "0e7a48322bfdbd7a90aeb80984d0a6fca23ca1e9ebe7e2742ffa15e1fe08ce37"
+
+[[files]]
+file = "config/accessories.json5"
+hash = "d459b76d2a92b8770584a407f8bfc6570cc17923e95c32e23d083fe14505e60d"
+
+[[files]]
+file = "config/aetherworks-common.toml"
+hash = "001aa15f47538c42dcf1a0c65ae6ff6c6da641c1b5aa95b7b0036fc1d3c3fd90"
+
+[[files]]
+file = "config/almostunified/debug.json"
+hash = "3e03a291b5310a6b94a45aff63e4731baa643701c42a968ed716483ccd1d5a37"
+
+[[files]]
+file = "config/almostunified/duplicates.json"
+hash = "40639e8cb9e9ea52b8557c50d29fc06e73e2ad1e7ca27ae5ce8fe2eca2e97188"
+
+[[files]]
+file = "config/almostunified/startup.json"
+hash = "ad711622f9b8c5cc8115f52396f5d82587b809fb20cbf9d94c7744aeebcaf4d5"
+
+[[files]]
+file = "config/almostunified/unify.json"
+hash = "eb414582f72b6db84666e76f4589a483e21c344de2784606cd59305b1eae8cd0"
+
+[[files]]
+file = "config/amendments-client.toml"
+hash = "aab86d378d7a467e7f805ef9580a03a86e017aa79fe1d9c3323eeb9f6b161b23"
+
+[[files]]
+file = "config/amendments-common.toml"
+hash = "9a186b1fdb7ae5b2f9739e826b576345575bb7fd3139d82597fff3bc20e83ad2"
+
+[[files]]
+file = "config/cardinal-components-api.properties"
+hash = "f7e7f346e0724cf9cfb77f44dec2e7d202ea2507729ec7b95ee6a8f089c82982"
+
+[[files]]
+file = "config/chimes-client.toml"
+hash = "f6490e232ad3a88c373c00a54cbde2fcad3934d8d2a496196321ec83604c477f"
+
+[[files]]
+file = "config/chimes-common.toml"
+hash = "b0383111b410663758521048922292e264e216b7d79d4da1f8eb4cb0b5ab5652"
+
+[[files]]
+file = "config/chunkloaders-common.toml"
+hash = "000fe3651f20d341804107cd530cbc6944acb2e5035c3c95967fd17177ad4a4f"
+
+[[files]]
+file = "config/complicated_bees-common.toml"
+hash = "166b7a9a9c3735c46fa29f135bf53948c41301b0bcf226f97739e65f3deaaf3e"
+
+[[files]]
+file = "config/computercraft-client.toml"
+hash = "09eee1f5405110edb02064e2163b32b0ecff39756f8e1fb88dc37a08e452d574"
+
+[[files]]
+file = "config/connector.json"
+hash = "060e296a5fddce603e50034e3cdb6059c3a0e122d0aae3d85a0523341c82ea22"
+
+[[files]]
+file = "config/connectorextras_energy_bridge-common.toml"
+hash = "a4d9eeb8806752eadbaf17d3072d1be28c508943814c5c14e2b85f936406758d"
+
+[[files]]
+file = "config/crossroads-client.toml"
+hash = "3b9a8e319615d71da9416da9a43ba9bed7dd44790619d37b1c23b56444bf1e74"
+
+[[files]]
+file = "config/crossroads-server.toml"
+hash = "19b8a37d75a69e941e5d5473ababa7e4b5ff3caf52a0f6b2b6ff94fdede89f36"
+
+[[files]]
+file = "config/double-hotbar-configs.toml"
+hash = "ea2c2949cd0c772140537073a39c3344137a1d79fe8cae966c8a293c7e80ab1d"
+
+[[files]]
+file = "config/dragonsurvival-client.toml"
+hash = "0b05dafdadea7843f039d9081264ed6eb40a5f642492b7615326502c428e1462"
+
+[[files]]
+file = "config/eidolon-client.toml"
+hash = "7c8ec51bf388bc183b35528617b685fa99e0d7f7a36b57f2ae7876204c5a4c5a"
+
+[[files]]
+file = "config/eidolon-common.toml"
+hash = "f88b052dad8baaf13c30f0ded98ce199757beb83b30632c6d266e8797666012f"
+
+[[files]]
+file = "config/eidolon-server.toml"
+hash = "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+
+[[files]]
+file = "config/eidolon/basic_incense.toml"
+hash = "34c899de77b145b4648711523cde7421619a25aabb8808ae25b1b2d6e585d9ce"
+
+[[files]]
+file = "config/eidolon/create_water.toml"
+hash = "3615b001979fb40ce8184e18ad76f667577b48757073f774dda6f94d77295cad"
+
+[[files]]
+file = "config/eidolon/cure_zombie.toml"
+hash = "8933b9d7cfee65593fe4bed53709d9ee4349e21f020929ae3315c3c58d4190f3"
+
+[[files]]
+file = "config/eidolon/dark_animal_sacrifice.toml"
+hash = "2191234cb4b18e76a0258f30a51bc0f3ffe92b073f4a4f52bcd25f9cd8003f5a"
+
+[[files]]
+file = "config/eidolon/dark_prayer.toml"
+hash = "34c899de77b145b4648711523cde7421619a25aabb8808ae25b1b2d6e585d9ce"
+
+[[files]]
+file = "config/eidolon/dark_touch.toml"
+hash = "b65f9ada44da6c0a933a1bcf8939741c4152a6b9a93f237eaf219be262eec284"
+
+[[files]]
+file = "config/eidolon/dark_villager_sacrifice.toml"
+hash = "a1e1e943074b2a9a4c47257dcaa33ed3c2f68104aedb827b0ed6b782bf1bf4a4"
+
+[[files]]
+file = "config/eidolon/darklight_chant.toml"
+hash = "7685beb061ec20a03877608ff6a8afda09731ff351b56186ad3fc576532eb3f8"
+
+[[files]]
+file = "config/eidolon/enthrall_spell.toml"
+hash = "3d32f22e267b87fb652deb47f54f0eb3e2b5a6d812c7fc7bf13445c829e9ad77"
+
+[[files]]
+file = "config/eidolon/fire_chant.toml"
+hash = "370f52a2800bddf500e059dd87b1320cf737e070cbb8b1508c9242f3e129014b"
+
+[[files]]
+file = "config/eidolon/frost_touch.toml"
+hash = "b65f9ada44da6c0a933a1bcf8939741c4152a6b9a93f237eaf219be262eec284"
+
+[[files]]
+file = "config/eidolon/holy_touch.toml"
+hash = "b65f9ada44da6c0a933a1bcf8939741c4152a6b9a93f237eaf219be262eec284"
+
+[[files]]
+file = "config/eidolon/lay_on_hands.toml"
+hash = "04c00702b7f6781ad86ed443e831f77a5dfb8c559069c1e1b874925ce35f2597"
+
+[[files]]
+file = "config/eidolon/light_chant.toml"
+hash = "7685beb061ec20a03877608ff6a8afda09731ff351b56186ad3fc576532eb3f8"
+
+[[files]]
+file = "config/eidolon/light_prayer.toml"
+hash = "34c899de77b145b4648711523cde7421619a25aabb8808ae25b1b2d6e585d9ce"
+
+[[files]]
+file = "config/eidolon/reinforce_armor.toml"
+hash = "3d32f22e267b87fb652deb47f54f0eb3e2b5a6d812c7fc7bf13445c829e9ad77"
+
+[[files]]
+file = "config/eidolon/smite_chant.toml"
+hash = "e4d2baddba7415baefef135f75969a46cf01ff58659fff7e7d7e5d5ea4a5131d"
+
+[[files]]
+file = "config/eidolon/sunder_armor.toml"
+hash = "3d32f22e267b87fb652deb47f54f0eb3e2b5a6d812c7fc7bf13445c829e9ad77"
+
+[[files]]
+file = "config/eidolon/undead_lure.toml"
+hash = "3d32f22e267b87fb652deb47f54f0eb3e2b5a6d812c7fc7bf13445c829e9ad77"
+
+[[files]]
+file = "config/eidolon/zombify_villager.toml"
+hash = "8933b9d7cfee65593fe4bed53709d9ee4349e21f020929ae3315c3c58d4190f3"
+
+[[files]]
+file = "config/embers-client.toml"
+hash = "2701319f133af645c32b19098cf2ad17ff409c3d531d30fce6ed2d73a06bec5d"
+
+[[files]]
+file = "config/embers-common.toml"
+hash = "889eeedf9f7b72163714744d7710e20a5aeaf859f255bc89d1188c58a78f1f45"
+
+[[files]]
+file = "config/emi.css"
+hash = "13673a50295e17972b33380c191f96532d4839a8343d6d6ae8296892ef93373d"
+
+[[files]]
+file = "config/emitrades.json5"
+hash = "1ed0ed3da45ed6bc11cdb624218f76f8e52b63818703b25e717bbbec615e6e92"
+
+[[files]]
+file = "config/essentials-client.toml"
+hash = "2466d9eb1d1af58c0febb94c973b43fb9e1955c2995c098cc541185d95fa2281"
+
+[[files]]
+file = "config/essentials-server.toml"
+hash = "92b8ed8adec710e4faa98837a5967e9cd523c625c3b309ba5d45f6f66de0f626"
+
+[[files]]
+file = "config/etched-client.toml"
+hash = "ba628db88f7a3fcfa91d37552cc15e3b37f5c3574e736cb54a1f018e3bfeaa7a"
+
+[[files]]
+file = "config/fabric/indigo-renderer.properties"
+hash = "db701799bbf04076bd118f587a94dffac678d8cf52850a1505b9c8da7a4121f4"
+
+[[files]]
+file = "config/ferritecore-mixin.toml"
+hash = "e3ca99e0f233e3bcf8b6762a85b1139f716bf96644318fe9cb022c270461b287"
+
+[[files]]
+file = "config/feywild/client.json5"
+hash = "699d23aa59ab1570715cb7f85d782d120808201d281fa6e6a6a17171661ec197"
+
+[[files]]
+file = "config/feywild/compat.json5"
+hash = "b3f901b34c5863876be7dd5ee0a5a69658bcda8baee8305ef39372c41d3e0f44"
+
+[[files]]
+file = "config/feywild/misc.json5"
+hash = "233f6510f97b09adde54975023dc5ec94e7b2baf1649a7668817577c57bcbc3e"
+
+[[files]]
+file = "config/feywild/mobs.json5"
+hash = "03fddc87b1242ba2a1ae609ed4bff7db9c1f8d81f97eee4d50e896971a32b0c7"
+
+[[files]]
+file = "config/flib.toml"
+hash = "0429833f8833ff9ba1d5cc0330c79e272efb8b19d1f9f267136dfce4f075e0e1"
+
+[[files]]
+file = "config/fluffy_fur-client.toml"
+hash = "8c5a92bbbf72f876f276b70768271a8e39ff027f2468d19a38f7d89f5720f756"
+
+[[files]]
+file = "config/fml.toml"
+hash = "1ed9280977d03a3e6d0661ae5c7217b49a4c40e255c88c6811b12b1b28f69ea5"
+
+[[files]]
+file = "config/forge-client.toml"
+hash = "887ab56b28b84932643280912fe29bd66e3f2c7e80c31b114925bfe7a670601b"
+
+[[files]]
+file = "config/idwtialsimmoedm.json"
+hash = "88267e04d2d0cd877160cff52f764cb97633468cd0a969f89b87e9be7445d406"
+
+[[files]]
+file = "config/itlt-client.toml"
+hash = "a865e1c0be5da957681629733f52a8aee8d4f9c85e1ce609a499daa64171261a"
+
+[[files]]
+file = "config/jade/hide-blocks.json"
+hash = "247df2699ebb5a0d4c9585aeeb267ef9388cd5bee2b13ca340f35124a135b35b"
+
+[[files]]
+file = "config/jade/hide-entities.json"
+hash = "22b4560c3dc05da35a70bb6611da0ce04cff295ab8c663afd58e725c396a24b3"
+
+[[files]]
+file = "config/jade/jade.json"
+hash = "4624fc2e033829004e59a6269ccc409529d653d7cfa902e8cb3dc570daba14a2"
+
+[[files]]
+file = "config/jade/plugins.json"
+hash = "2458d11a053e63b45181fd0fd45a4cede1a3f06a77ddef682f17bbda8ec791bf"
+
+[[files]]
+file = "config/jade/sort-order.json"
+hash = "7bc905273889bbf846089801888e3ae23d675bfe388b3656e5206dc36cffb937"
+
+[[files]]
+file = "config/jei/blacklist.cfg"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/jei/jei-client.ini"
+hash = "cba337712ed12b05bbbe3c7a046d88cdba7c2b301f4dbcfb47cfd82e3759897e"
+
+[[files]]
+file = "config/jei/jei-colors.ini"
+hash = "30ffef1681a9b0255e65a756406f85b1cca8b0bb3c0fab357c2727e325401bd0"
+
+[[files]]
+file = "config/jei/jei-debug.ini"
+hash = "44e73ad4423c5bf0381da8e934861ac552cca4a12d4a007801cacf6eb85d12e9"
+
+[[files]]
+file = "config/jei/jei-mod-id-format.ini"
+hash = "07052785400b48d3757dbbcfff0b50899fbaed1ac54ea09bc9024ea7f73b7644"
+
+[[files]]
+file = "config/jei/recipe-category-sort-order.ini"
+hash = "fe15ca7848c151f644b256c4c26703b2b74c868e7d9e750d20b60fce3ed9b02c"
+
+[[files]]
+file = "config/labels-client.toml"
+hash = "15e4087474ce3e81b8bd4d3330f80aa2edae598db1eb301c9d0134a4300e828d"
+
+[[files]]
+file = "config/libnetworkstack.txt"
+hash = "6cffb9f5852113311346ef545fa463584d31970b93e05b11880f54ed40a881ca"
+
+[[files]]
+file = "config/lodestone-client.toml"
+hash = "441957dfd29357d90c26f0c963f063337dcf62a2a0ec2e2fe3f1ef278e7003b4"
+
+[[files]]
+file = "config/malum-client.toml"
+hash = "f6bd7454df7a3acd43642bbc04bef5b3f1ea67608871b4cdcb60794f1f7a86fc"
+
+[[files]]
+file = "config/malum-common.toml"
+hash = "cc007af40f74261baf5990f86b0b1dad77263dff7dbf52c71dc740c76194c036"
+
+[[files]]
+file = "config/modernfix-common.toml"
+hash = "d40a0510a5eaf56e3c48e881348d7d826c5a1f61aa29b69cf0fc33dd96d6fdcd"
+
+[[files]]
+file = "config/modernfix-mixins.properties"
+hash = "bc53d2c8846366ff58d2f93d0a6ba02741aa1c106bdab140f0069a65a12b1cb4"
+
+[[files]]
+file = "config/modonomicon-client.toml"
+hash = "8cd257882931a507adc26f80ecbb0c2fc5e22d7298905ff736e89c9cb14dea37"
+
+[[files]]
+file = "config/moonlight-client.toml"
+hash = "f7135f0beb4eec4e7e3314502086a96a371c73e8fe4249e727b1eb5088ce8725"
+
+[[files]]
+file = "config/moonlight-common.toml"
+hash = "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+
+[[files]]
+file = "config/openloader/advanced_options.json"
+hash = "fde0ac48ad37e65b8609383fd54e5f3c36d6cf3a175e7772f7883b353adafd80"
+
+[[files]]
+file = "config/overflowingbars-client.toml"
+hash = "1cb5807421d57c43c64c74b18bc22a30452f4e84b59020ed39742c0b957ea57b"
+
+[[files]]
+file = "config/paganbless-common.toml"
+hash = "496853bef508d40ab189905df948e0c4bf9cb1ee6e84eb46fd97dc6f5e6014e0"
+
+[[files]]
+file = "config/patchouli-client.toml"
+hash = "3b6236845f6a5ff8804487b63b0d74305b91316dc9a008362838607b0be3bd8e"
+
+[[files]]
+file = "config/pneumaticcraft-client.toml"
+hash = "453c1d339543fc916dc9fec69c5c3f32e51d3a3ed12b2cb7c219902313597d19"
+
+[[files]]
+file = "config/pneumaticcraft-common.toml"
+hash = "5f99aeb7d1b7c591d2ac81cb82e9bac3f2e226ae772503ab13bbaa86a6744500"
+
+[[files]]
+file = "config/pneumaticcraft/ArmorFeatureStatus.cfg"
+hash = "3260c358de448f81835cefd85f2da6a53e4bdcd2be2451c04c0a163e2c0e20be"
+
+[[files]]
+file = "config/pneumaticcraft/MicromissileDefaults.cfg"
+hash = "cf52b07316b17e5217bcd9983b8b5060683d0fe0ed26376e41011bf40e3ea997"
+
+[[files]]
+file = "config/pneumaticcraft/PneumaticArmorHUDLayout.cfg"
+hash = "052d37ccd8ea50a41b1313430b3b85690ae130e6fde53c1c4902ab40e51afb4f"
+
+[[files]]
+file = "config/pneumaticcraft/ProgrammingPuzzleBlacklist.cfg"
+hash = "dbf7e597284cb34c451872fadf82fbeb705e4d66d8e17ac358b5cc10cfb7a321"
+
+[[files]]
+file = "config/pneumaticcraft/thirdparty.cfg"
+hash = "8a456f5bdac4e667bea52c6b0027aa43aa13401b8783b4a95d2ae28bdbee7ced"
+
+[[files]]
+file = "config/polymorph-integrations.toml"
+hash = "47c2b8a65ca08ee0a73400bf6b8ccc0a831b4c220fa95097eff6216456fc511a"
+
+[[files]]
+file = "config/primalmagick-client.toml"
+hash = "e54d718082108ddbe142afe487ac7f48d4dbb06245362562471ef818d722c9d6"
+
+[[files]]
+file = "config/primalmagick-common.toml"
+hash = "77282b2d5e544fee160327ca7cedbae7ac29b72602db96523d8d2a09c6125824"
+
+[[files]]
+file = "config/quark-common.toml"
+hash = "26c3d434dbdc2d626ad357a322d8726843204be6507a9442bab5b644ecb502bc"
+
+[[files]]
+file = "config/resourcepackoverrides.json"
+hash = "e4623167d23dd6453d499c10d11d8a1b3e9ddee35c44825ed69539af13c5562d"
+
+[[files]]
+file = "config/restrictedportals-common.toml"
+hash = "2b21f5a852c0547163355bc57b04c355efc29edea0d693de6b31e65f35c80db2"
+
+[[files]]
+file = "config/simpletomb.toml"
+hash = "d45ab950661f881c237b3682400500123589a04c464867e143fb2ae00db58695"
+
+[[files]]
+file = "config/specutils.json"
+hash = "811f5d36fe08c9d47307db0e899f06c4127da8bb3c962248f223dab0596d7156"
+
+[[files]]
+file = "config/storagedrawers-client.toml"
+hash = "9278e868cee8fe35e0c0bae950a26329d85580d91841b42ea1b0d04fb4d0ad2f"
+
+[[files]]
+file = "config/storagedrawers-common.toml"
+hash = "bbc825a4a66e88fabf623f8864c746d68ea35e37659fa05b14047cee3d5c233c"
+
+[[files]]
+file = "config/storagenetwork.toml"
+hash = "b8a3f9f5ee541564b5d264c7ce765c3137589a270176cac86c8394590572c1d3"
+
+[[files]]
+file = "config/supplementaries-client.toml"
+hash = "fff55aa44f0d66a33e20c6ca51d71e91f18a9efc692b8a9d74cc5139ee5720bc"
+
+[[files]]
+file = "config/supplementaries-common.toml"
+hash = "1370424083bcb87c90bb674598006d5e94b299344f26bb71d6b032b890f49132"
+
+[[files]]
+file = "config/theurgy-client.toml"
+hash = "7d5cc00c70fa3acd9620729c2a4d0812de7472ec70884be58bfe4dda8ea629fc"
+
+[[files]]
+file = "config/travelersbackpack-client.toml"
+hash = "ce82099007554e355521f51eb83bb201ca93297da20f572a3225f369527f4cd2"
+
+[[files]]
+file = "config/travelersbackpack-common.toml"
+hash = "4a65c07da9bdd9b4933a75abf0af43c7e8b66c84704cae8941bbe442377828d7"
+
+[[files]]
+file = "config/wizards_reborn-client.toml"
+hash = "127e75dfef6226689a0b87474c60833f52067d9010c737b180275fac7c0bc009"
+
+[[files]]
+file = "config/wizards_reborn-common.toml"
+hash = "4fcfa91cbd9b2fd359fe262fd66a4f02a56a493e52416099b3664d1ddd74e71a"
+
+[[files]]
+file = "config/wormhole-common.toml"
+hash = "110735d44eab9f3f56419cff162529ed13a6f7d86e52179d38a46c30b8a14c36"
+
+[[files]]
+file = "config/xaerominimap-common.txt"
+hash = "b410746ddef0f7dd5f1d860ef3fcd6ad29c10988abbf6281181cb9c3acb628ca"
+
+[[files]]
+file = "config/xaerominimap.txt"
+hash = "33257abdaee3496fdda5565de064ed17101da7d4f8cae15cad1b31df184bfd44"
+
+[[files]]
+file = "config/xaerominimap_entities.json"
+hash = "b54c6eedcb752d1235c6ea60dc365d4d1621c4c80768faaac4347e76d4e10a13"
+
+[[files]]
+file = "config/xaeropatreon.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/xaeroworldmap-common.txt"
+hash = "ab09b6171d1f5f9c15d3ea653be739b53bca6f88db1ec38ae80575143c4c68cd"
+
+[[files]]
+file = "config/xaeroworldmap.txt"
+hash = "5ce8d353fa1eaf72bd130b7ca36554b6de49a92d4eb4cd6f7a6af8b004ddd3b8"
+
+[[files]]
+file = "config/xycraft/core_client.toml"
+hash = "a0146e4b893904369ed02d593659dad112cf707539cdff84544aa2fec9cf0fbb"
+
+[[files]]
+file = "config/xycraft/machines_common.toml"
+hash = "e8cce55d3859f531578c7ff5f63bef6c790487ec4113b4993810081b7a55876a"
+
+[[files]]
+file = "config/zeta-common.toml"
+hash = "b5ae0f1685b3136c29758855f06e1eb4fa9878ef78d25b7adcbcd88391074c86"
+
+[[files]]
+file = "config/zzz_rawr/config.toml"
+hash = "3e8bbb8906f1c91cdab9148f84c138f74e2b5d16433c77a6b3784968e7ceeedb"
+
+[[files]]
+file = "mods/accessories-cc-layer.pw.toml"
+hash = "d84961fe65fcb7f4da1689bdc7a1f1b8ce751a2b1eff2b18fb1f5c8027d22042"
+metafile = true
+
+[[files]]
+file = "mods/accessories-tc-layer.pw.toml"
+hash = "d089bd1afa7fad1d3c8414b3f1765cdca030b20d974bdd1f8e232069286c26d0"
+metafile = true
+
+[[files]]
+file = "mods/accessories.pw.toml"
+hash = "8ee0d0d0243a83e1c7288dfeebd13de3ead2c0ad8de7997584cf3b8125c7c871"
+metafile = true
+
+[[files]]
+file = "mods/additionalentityattributes.pw.toml"
+hash = "48770bc79702c9bc6476ca99e159fea6f28133e125f7ffcdb4c85e1e24c69631"
+metafile = true
+
+[[files]]
+file = "mods/aetherworks-refracted.pw.toml"
+hash = "3b9cadb751674025809b6d7a24a1637ed38def1011c8e95d4e05e1af8b3d7af8"
+metafile = true
+
+[[files]]
+file = "mods/amendments.pw.toml"
+hash = "06b855a74316c8f1b5ac9b4b13fbaafc5848502d6ec079a394e7e9db596b3ac1"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "8a27a482bf7dbf9b8a96fe9a3e8bf8e08ca1d376c6cf13bccf49f0d5191d56fa"
+metafile = true
+
+[[files]]
+file = "mods/athena.pw.toml"
+hash = "9638d8a308563842fd989970919a51f37ed1bcc82372bff47fc5a5c2e6de738e"
+metafile = true
+
+[[files]]
+file = "mods/badpackets.pw.toml"
+hash = "2f44ef7d4597f72f70877fe9b555ecdfe2bf882f96f712d9bbcd1dab8d951544"
+metafile = true
+
+[[files]]
+file = "mods/blooming-biosphere.pw.toml"
+hash = "8014118b9ad481f464abbd7ffe99df2f8d538d214f7c73bf7f05f882f71784d6"
+metafile = true
+
+[[files]]
+file = "mods/bookshelf.pw.toml"
+hash = "058699e4832d0cf5396c5ea29244100f0c0e39a8d7aa5b64c2afdcc3cb8c8145"
+metafile = true
+
+[[files]]
+file = "mods/cc-tweaked.pw.toml"
+hash = "85e384667b89e3851580f924733c686d8cd7fd3ad7f841aca971cb01bd60e4d7"
+metafile = true
+
+[[files]]
+file = "mods/chimes.pw.toml"
+hash = "d960f68e4c5e5f79eff91a277dc22d7acb49f04080fcf0fe1648b5a9a83e3d4f"
+metafile = true
+
+[[files]]
+file = "mods/chisel-reborn.pw.toml"
+hash = "33e11adb205c864d43ad160ed94ac8ee9bb99ff438c17ae9b456b1bd52d5439e"
+metafile = true
+
+[[files]]
+file = "mods/chunk-loaders.pw.toml"
+hash = "639857fb6b3f29345a30ea5e727a15ec7c3c63a8559d743bf9807155f8a311ab"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "96204145e12506e0625d8b9bfa05aad54e9a62fd511bae39f0d57fcb5e39f4cc"
+metafile = true
+
+[[files]]
+file = "mods/complicated-bees.pw.toml"
+hash = "4bb0c83f88c526cdc06e131bed89f8c15a7e21d5cb7a569ba7353acfd289afc9"
+metafile = true
+
+[[files]]
+file = "mods/connector-extras.pw.toml"
+hash = "ccc22ae710d22b2c8e8851c5968f85d32bac9f40ee7ded717df78cbe0cc8dae3"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+hash = "1e56f528d8e21b0cf9c52c3d6deea2a4eafa408170b39a070195dbf66617f373"
+metafile = true
+
+[[files]]
+file = "mods/crossroads-mc.pw.toml"
+hash = "cc92f50b3809df94d33ec38adff2fe4c5fcc7b159634fe042929dfe6cc5a184e"
+metafile = true
+
+[[files]]
+file = "mods/double-hotbar.pw.toml"
+hash = "4205aeed4b70931de5fddadf072a6e4ae5ac20737ea088019fbbaf4697dbfdd3"
+metafile = true
+
+[[files]]
+file = "mods/dragons-survival.pw.toml"
+hash = "6a3493038a4bddb1e0bbdb208dd50c91bd3c831579d9add4860da9bcc37e9bdd"
+metafile = true
+
+[[files]]
+file = "mods/eidolon-repraised.pw.toml"
+hash = "253ad75e9434dc586fc17c3133804f0d6a43edc604b74edf70f89db800e72519"
+metafile = true
+
+[[files]]
+file = "mods/embers-rekindled.pw.toml"
+hash = "20181dc0fc3a3eec35232d4b61fcfe1f2d1d031ff285d0a3578022beef387c37"
+metafile = true
+
+[[files]]
+file = "mods/emi-loot.pw.toml"
+hash = "5fe0a5f2c76aa2bf6adde2c24d391970c647e088b68c7482081c1abcc30a9fcc"
+metafile = true
+
+[[files]]
+file = "mods/emi-ores.pw.toml"
+hash = "73c7f2c4a7d05822b6a278cd934ffe0eb7d9c2b83d1db761bde08bd059043a34"
+metafile = true
+
+[[files]]
+file = "mods/emi-trades-villager-trading-emi-plugin.pw.toml"
+hash = "27b1964e1583318e348f75fcb6a955c47f0d8650fcef62c6a07b7b1891bd2526"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "e0fd93d60706a63505e69867fe9a56f2b63b5b7cec7819636efe030a6395159f"
+metafile = true
+
+[[files]]
+file = "mods/emiffect-status-effects-emi-plugin.pw.toml"
+hash = "cf53ff3d2ea7e7aed6a8045414b2c9b80405ce1e26d1c2d43bd75a9ddaf715c9"
+metafile = true
+
+[[files]]
+file = "mods/essentials.pw.toml"
+hash = "1fa2e66e87823ddff5d6f0b7d2ae796397be53af7541f6674018580eac2b400b"
+metafile = true
+
+[[files]]
+file = "mods/etched.pw.toml"
+hash = "a5a5475c903b195bdd5f90808b178fa9285e334338e18db7447a8c734514f496"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "130d2b078d1a73c86271a0222fcefbd24f5f816df37d94fa780d37a5f1605119"
+metafile = true
+
+[[files]]
+file = "mods/factory-blocks.pw.toml"
+hash = "e943d15c16c342839e0df4a21d4dc13f85478e5672200e3b3da159fb0d117a40"
+metafile = true
+
+[[files]]
+file = "mods/ferritecore.pw.toml"
+hash = "5bd0506bc0be25116b234f2b5af9447f60d82ae1cb6c5be4e12d8841f6c2501c"
+metafile = true
+
+[[files]]
+file = "mods/feywild.pw.toml"
+hash = "fec03172fae941dd6446f6d63a27ba605497aea9c7df2a246f1041cf97322f61"
+metafile = true
+
+[[files]]
+file = "mods/flib.pw.toml"
+hash = "4a5b4a1d085ef0ad0d77e6c211e793f2d5cbe34e8ead3f5e7d2d089ceca207a0"
+metafile = true
+
+[[files]]
+file = "mods/fluffy-fur.pw.toml"
+hash = "0fe5116ee2715a53226290baaa05f60651abd4533a7f996bec954503f9d825c9"
+metafile = true
+
+[[files]]
+file = "mods/forgified-fabric-api.pw.toml"
+hash = "fd4067afb2907fbe9c2077a52b2528d8612d4ac400645942f6367c83df44602b"
+metafile = true
+
+[[files]]
+file = "mods/fusion-connected-textures.pw.toml"
+hash = "59d22263e36313c43ad7c5e4179cb3554d414f701442b0784d94c0ba2384edfd"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "ce2208de3caf116f938102b52c12ce0dd253753781a54bd0907c71dff32bc583"
+metafile = true
+
+[[files]]
+file = "mods/idwtialsimmoedm.pw.toml"
+hash = "c21856c64bf3faf762371fe4d68b7f1976fc1bd539f7255509b55c4b5bc6f918"
+metafile = true
+
+[[files]]
+file = "mods/iron-chests.pw.toml"
+hash = "4aba12c2a18205fe6d25d1af817ee8c0baa580a74048cb30c659f6be66f31d2e"
+metafile = true
+
+[[files]]
+file = "mods/its-the-little-things.pw.toml"
+hash = "b48deba398e5d4aa04ece8cb0832c3bc9eade801eb24dd58cf46155e3a6ae385"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "de3310ed1f65e3efa94a7112501307d6439822c7b080c472363e4a3b7eb2e94c"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "60813bd83b6042f9c218e718a990e81757681f19d6a4b9b3860f529c8b651960"
+metafile = true
+
+[[files]]
+file = "mods/labels.pw.toml"
+hash = "a67c263f0fa570bacc78b6898bced0a74827649b9636c7ccd954f106cea5b964"
+metafile = true
+
+[[files]]
+file = "mods/libx.pw.toml"
+hash = "2c255a6aff5c016d8769777fd9e23f4bbc256d103fb45eef12b1d6af77249ba1"
+metafile = true
+
+[[files]]
+file = "mods/lodestone.pw.toml"
+hash = "83ca5425075b3da76f5beb6aca5ff5f1b65eef8e0761e8280ec1d1ac7a8f2d40"
+metafile = true
+
+[[files]]
+file = "mods/malum-vestis.pw.toml"
+hash = "ea6604a7cefb66dab0ca27c1d44c8e9e37b317382ad4ee4cd7e015f829efc334"
+metafile = true
+
+[[files]]
+file = "mods/malum.pw.toml"
+hash = "d2604e7e212e461aa86336c0ffb111e6a8667430aff87bb9cd19a339a23e4389"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "38365cfabe4f5af0a270c208ba4de1b332b9e3740251ccae7f33023d9aeaf3db"
+metafile = true
+
+[[files]]
+file = "mods/modonomicon.pw.toml"
+hash = "d3a4e2a13a72c8ebe492df7601b431dd5bf7c5d141124eaab7c41399cde3f632"
+metafile = true
+
+[[files]]
+file = "mods/open-loader.pw.toml"
+hash = "f1a2d3a570a6ce0722f0136b4b57371fc067ad7f329e1df9cd3cd765619ac759"
+metafile = true
+
+[[files]]
+file = "mods/overflowing-bars.pw.toml"
+hash = "4d2414c1705acb3b0831403820758443a42355fa69992927e3e1a77874f8a8a6"
+metafile = true
+
+[[files]]
+file = "mods/pagans-blessing.pw.toml"
+hash = "2f2eac340fd81353d4c5c0de0f35954a3c382d479aaf1fb953a9f45ff61a4ebc"
+metafile = true
+
+[[files]]
+file = "mods/paintings-with-dragons.pw.toml"
+hash = "539b9ef2d9ad7b7fa23cd8d00ef88cfa1dd9a2942b86c60fe154ec169501722f"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.pw.toml"
+hash = "3a7eaa64434e7449e5fe6bd089bc784499432dae7d6ca07174b55b10a3b32ec8"
+metafile = true
+
+[[files]]
+file = "mods/pneumaticcraft-repressurized.pw.toml"
+hash = "bee123886cf09d6c2e12a25c9a86b21b2c7126d80747415fce8ad4fcfa314335"
+metafile = true
+
+[[files]]
+file = "mods/primal-magick.pw.toml"
+hash = "b15d766bd14d17f362ae4e563cb368390af16f1911ddbfa28c8b212eba8c17a2"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "d99946cb99e0d71fc13f2ff0e87108618b1f42486ff0ab3c3b99fa40c66efc9a"
+metafile = true
+
+[[files]]
+file = "mods/quark-oddities.pw.toml"
+hash = "cccf29ce906a920013a8f10ece935b3e9c970dca19943d7237557b178d01f149"
+metafile = true
+
+[[files]]
+file = "mods/quark.pw.toml"
+hash = "d92b242de1f5ba59226bbe69a6567493434874ecb63413fec62d82b43f081f4e"
+metafile = true
+
+[[files]]
+file = "mods/resource-pack-overrides.pw.toml"
+hash = "e6958cb835e0e110d78eee6efa68f2c3cd0fde36161d5a705556964b93a6f959"
+metafile = true
+
+[[files]]
+file = "mods/revelationary.pw.toml"
+hash = "c5aa125c73079c51dfeffa2cb5da8b0e4bb66227895f3457d0583d5542669583"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "2cb8dd9a3944a6430b49916a4fe1b6cf0bd7efd907054f8e679a02717149404f"
+metafile = true
+
+[[files]]
+file = "mods/selene.pw.toml"
+hash = "3c09944647988453baf03b55ff6190fbe97e367196b2487fb84c93ca2ee28f6e"
+metafile = true
+
+[[files]]
+file = "mods/simple-storage-network.pw.toml"
+hash = "be73b63afc28ebd84cb3e6b7023c71720e11fcb2dd057dcf12033a6509753a3e"
+metafile = true
+
+[[files]]
+file = "mods/simple-tomb.pw.toml"
+hash = "0f6036e1482ea786d4dea4d484d210c8833a9c2d95e8b6b3bb09c9678b51a064"
+metafile = true
+
+[[files]]
+file = "mods/sinytra-connector.pw.toml"
+hash = "0eab5a7036d1f06d6a7d4679685eaec5723a5c21469f519de1cd1e0ff416ade3"
+metafile = true
+
+[[files]]
+file = "mods/species.pw.toml"
+hash = "5470c6c99739cfdd806f88d408c79fd5705b088abd27901998b7f64d5e0fe02f"
+metafile = true
+
+[[files]]
+file = "mods/spectrum.pw.toml"
+hash = "f904ee481dcdd5b2b51a71a34bab2c3a2e6754316f389ed00f6cd0179689fcbf"
+metafile = true
+
+[[files]]
+file = "mods/storage-drawers.pw.toml"
+hash = "eb7fb878f669cc17a22d19902fe96cdcfe541a9cf7d03eb7244fc11e13713b61"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "3eede8a7ebafb69840153ff51dbc879b0232799e90a834ab6d71274b1316179f"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "c0fdbfb5995309ae73fe8c22c5d4921a9e08af1f74aed3ac5a6096e0b919ddbe"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries-squared.pw.toml"
+hash = "f8740f5dc77897daa1739a211b09f633044030fbd68998c62951f39ead28b6a0"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "af4f96defc16b01dc235ceb58e734747adbc36b7a5cb03bc7ed4f253ca695a3c"
+metafile = true
+
+[[files]]
+file = "mods/theurgy.pw.toml"
+hash = "db5dd5c5c9fb582170306ce7337454d9fb1cdc481f6264085beaaecc308ca26f"
+metafile = true
+
+[[files]]
+file = "mods/travelers-backpack.pw.toml"
+hash = "3f1432bd1469ff9a8b21fd2ed883c63b4e004db6f58912795b9a9ea891d414b3"
+metafile = true
+
+[[files]]
+file = "mods/twigs.pw.toml"
+hash = "75ac47ef3a388aa5416f86415f79d262f68f5c8195c7a1a89f081b348a64c81f"
+metafile = true
+
+[[files]]
+file = "mods/vanity-aesthetic-armory.pw.toml"
+hash = "e8ee9ce230ff90e6a95c323a7c564ee05c610ac1dbdbf5ddfc1612346c1d1d58"
+metafile = true
+
+[[files]]
+file = "mods/vanity.pw.toml"
+hash = "75fa47c7b8bf7da2b5084f409992b90bd49e6a0aa8e883d09875624f6b3474b3"
+metafile = true
+
+[[files]]
+file = "mods/wizards-reborn.pw.toml"
+hash = "b7f032981fb379187a8ac974d7514979d191eed5ab56b4b3261c1b32f3113393"
+metafile = true
+
+[[files]]
+file = "mods/wormhole-portals.pw.toml"
+hash = "72add18c6ba203c324302633ebdafdc2662b14aa4c50483e6f94eefe55620721"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "fc87d67d950a471f25000ca5a5c0cc80eee30d6ab79e3a998bc7ac8a862ab3b7"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "54ad33cf1eb06e8bd5179706f90eedbda07eb60216f1bd40017c205caa2fbf4e"
+metafile = true
+
+[[files]]
+file = "mods/xycraft-machines.pw.toml"
+hash = "a0e467e6f8e56b02040026d9121c2efc2ce2e451ecc884deb82d6bde5911397a"
+metafile = true
+
+[[files]]
+file = "mods/xycraft-override.pw.toml"
+hash = "4df9b9bfeda878ecf2a4529070c4a099e60799beb09e50c79b832d3e5f60ef02"
+metafile = true
+
+[[files]]
+file = "mods/xycraft-world.pw.toml"
+hash = "0b53eb0aa8da580b8a8f11e907a46633853cef4fcf15cdcdcc0ff1e1396a935f"
+metafile = true
+
+[[files]]
+file = "mods/xycraft.pw.toml"
+hash = "29d3255ea87d64f22f342e78e4ff82bd36938248ea3c0e11490c301f2eab16a1"
+metafile = true
+
+[[files]]
+file = "mods/zeta.pw.toml"
+hash = "583961055f3e588845076ace49394c9ca830706a73eb1b4a4cbfe4db9f0950e9"
+metafile = true
+
+[[files]]
+file = "resources/pack_credits.txt"
+hash = "231fd4b79527eeb98a6174efa3d50f464a527a6507fc30a71500ed9c3995ca17"
+
+[[files]]
+file = "resources/wyrmzardry-auxiliary/pack.mcmeta"
+hash = "cc1750e52c546fa3085b45e9b17870d13837789b6b74fbee32a8222e8b392d50"
+
+[[files]]
+file = "resources/wyrmzardry-resources/assets/minecraft/sounds.json"
+hash = "59d3d47ee7acef02166d02972532138b351a4b1c777e7ce2069f586acb686722"
+
+[[files]]
+file = "resources/wyrmzardry-resources/assets/minecraft/sounds/music/templesong.ogg"
+hash = "9d85b2f1256756ae0812dbdb8697b04dd53d7a8cbbfd2ba5d28f9a9d8f946987"
+
+[[files]]
+file = "resources/wyrmzardry-resources/assets/wyrmzardry/lang/en_us.json"
+hash = "ec0e9c21d5d2fbcadfec8ff8f72d8f61aead6709b437935f621130bb305f98fd"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/c/tags/items/hidden_from_recipe_viewers.json"
+hash = "f9ac3ed0ec4efa40f5469f27135697764c99638171c6694918e9df2eb56b22ca"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/c/tags/items/raw_fish.json"
+hash = "3949421c2ed4fbd574d58ebd8619588e67ce83c8a1fe34c067cf1f81d08a6724"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/c/tags/items/vegetables.json"
+hash = "2186fcdb93b03653b34a41bbab0a9c3617b6e9674606d6f63deaebcb07537fa1"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/chunkloaders/recipes/basic_chunk_loader.json"
+hash = "8b0fa2f70536f729a81a180a4f69efeb13e6acc1e5db0f2d151f8d6b2cf35d17"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/chunkloaders/recipes/single_chunk_loader.json"
+hash = "7df487f67aa8f9f10ae8c491a8ed56e577ea607e7959dde3046305e5c9c4202b"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/chunkloaders/recipes/single_to_basic_chunk_loader.json"
+hash = "a2eb8fcd07d91da97fbbe2a8bce881bdce656f71658f2e652baabc175f6f965c"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/computercraft/recipes/cable.json"
+hash = "45ccb675a7885ae69b25a3c5b96afc11702fc379a3e06467d4a16ce1c511b5c7"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/computercraft/recipes/computer_advanced.json"
+hash = "9b292454fd0eb3544ea235bd470a6ddbe08d4fefec254722f71f454f77c1cc80"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/computercraft/recipes/computer_advanced_upgrade.json"
+hash = "a75d5d611e58e3c80bbf0244f82a8a8351c4e8c4aa0f3a1c56da5343aa6d5ae5"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/computercraft/recipes/computer_command.json"
+hash = "a75d5d611e58e3c80bbf0244f82a8a8351c4e8c4aa0f3a1c56da5343aa6d5ae5"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/computercraft/recipes/computer_normal.json"
+hash = "a75d5d611e58e3c80bbf0244f82a8a8351c4e8c4aa0f3a1c56da5343aa6d5ae5"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/computercraft/recipes/disk_drive.json"
+hash = "ed51bf5b3bfa875b83b81c42a93a0219ccc4b7cf2f3e2650b0bde87f30937c1f"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/computercraft/recipes/monitor_advanced.json"
+hash = "2ba041f4fa57db04225bc1d4bfce136e10d8163ada91deabc10cb94f8ca63681"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/computercraft/recipes/monitor_normal.json"
+hash = "a75d5d611e58e3c80bbf0244f82a8a8351c4e8c4aa0f3a1c56da5343aa6d5ae5"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/computercraft/recipes/pocket_advanced/computercraft/speaker.json"
+hash = "09d46fe2ec0f9bb27530edc7fd1f6e946d07052b78425a3139eae48c2bb0055d"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/computercraft/recipes/pocket_advanced/computercraft/wireless_modem_advanced.json"
+hash = "325f896cc1ac29b6ea1c1c2b127463b8ae0fdf214eb19963b78f800ca31c7a10"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/computercraft/recipes/pocket_advanced/computercraft/wireless_modem_normal.json"
+hash = "8c91067f2714c86dc2001cf3be999674f6ad6e2287fd8706e6a3d90ac7ab322e"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/computercraft/recipes/pocket_computer_advanced.json"
+hash = "720c306a1c21074c610acf5dec944d5b0bef139dd5b7bf5de9db23f5f14842f9"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/computercraft/recipes/pocket_computer_advanced_upgrade.json"
+hash = "a75d5d611e58e3c80bbf0244f82a8a8351c4e8c4aa0f3a1c56da5343aa6d5ae5"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/computercraft/recipes/pocket_computer_normal.json"
+hash = "a75d5d611e58e3c80bbf0244f82a8a8351c4e8c4aa0f3a1c56da5343aa6d5ae5"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/computercraft/recipes/pocket_computer_upgrade.json"
+hash = "bc9d1513c50a310f5ae1f1c257b46c630170100633a1238a219cf00849b918c8"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/computercraft/recipes/pocket_normal/computercraft/speaker.json"
+hash = "7671488f65a4153aec9c9e6d41797c007a499548b42d50ca57894e5116ea89a8"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/computercraft/recipes/pocket_normal/computercraft/wireless_modem_advanced.json"
+hash = "0ae99cf1ef8da0314feb40c79c280c32cc2e1689b8a93b78d6ab083d9d3d3806"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/computercraft/recipes/pocket_normal/computercraft/wireless_modem_normal.json"
+hash = "e2fd323ab7e68abb2c27e0562493a21b77b9df670e36fd79c0990a0a7e84a00e"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/computercraft/recipes/printed_book.json"
+hash = "454f71457996322a17e1687dbab339307de30a5b587ffe6249137ec3d09cedd3"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/computercraft/recipes/printed_pages.json"
+hash = "f314af8172d1669e30057b29b11bae3d570e4160c953a19ea929ee2fdc8b9e5d"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/computercraft/recipes/printer.json"
+hash = "ea4aeaa86d3ebca1653fe1f6f3c7c113ac288f5ffd68a48baae6669eea748b90"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/computercraft/recipes/speaker.json"
+hash = "5654cd5313a94a2736269e8bfcc55abc4e5d987c8dd5234e05d8762acbd77397"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/computercraft/recipes/turtle_advanced.json"
+hash = "a5fec10a495e92748f5a03cf2f7450ffca1143b4ffe7bee71ea8a89388cd49f8"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/computercraft/recipes/turtle_advanced/computercraft/speaker.json"
+hash = "dedfd8cf93bf6bbffcb4ac7697c412bcd4cdda8e93a3fa747c9efa0429096525"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/computercraft/recipes/turtle_advanced/computercraft/wireless_modem_advanced.json"
+hash = "5a55415c95f319e417e5f7d7f00bea5f1f2dd8315ecc84d3f4ed2edc6ab8a059"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/computercraft/recipes/turtle_advanced/computercraft/wireless_modem_normal.json"
+hash = "2c05725fbdd2f9fa3f40b564c57bb091a36fdeb83cf9e76611d98d204c6b25b1"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/computercraft/recipes/turtle_advanced/minecraft/crafting_table.json"
+hash = "6699a8126ebb6bc97d6a5749cd429b0d7b7f1f71e2ddedb8e1b05fb2f7da57d6"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/computercraft/recipes/turtle_advanced/minecraft/diamond_axe.json"
+hash = "04f76c4647e936900245d1a0133d48f2a509459d779865c879c7f56291dd1251"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/computercraft/recipes/turtle_advanced/minecraft/diamond_hoe.json"
+hash = "af7a8240cbf9a02b57d60e272b6e785668c33961501b22142b5f7fe6d9344b03"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/computercraft/recipes/turtle_advanced/minecraft/diamond_pickaxe.json"
+hash = "e3cb7003ce091768516e542fd66270aba45197f994324ab22847cbeb02ece312"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/computercraft/recipes/turtle_advanced/minecraft/diamond_shovel.json"
+hash = "2df3ea6f87262546a345c12b3f428d1105ed1fde85af856955e440d621d28e23"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/computercraft/recipes/turtle_advanced/minecraft/diamond_sword.json"
+hash = "920fc62e3671404c295856772eb88af74dea23887d01fa1fdc57e8e144651740"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/computercraft/recipes/turtle_advanced_overlays/turtle_rainbow_overlay.json"
+hash = "5aa07076f0c8f63f7f975a9e3f49e1ac53b974479f6fe3ecb655043412ab4998"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/computercraft/recipes/turtle_advanced_overlays/turtle_trans_overlay.json"
+hash = "8af495e9a496116f25df2d8e2a70ba1b66e7f97266015356995b6571989b4659"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/computercraft/recipes/turtle_advanced_upgrade.json"
+hash = "a75d5d611e58e3c80bbf0244f82a8a8351c4e8c4aa0f3a1c56da5343aa6d5ae5"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/computercraft/recipes/turtle_normal.json"
+hash = "a75d5d611e58e3c80bbf0244f82a8a8351c4e8c4aa0f3a1c56da5343aa6d5ae5"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/computercraft/recipes/turtle_normal/computercraft/speaker.json"
+hash = "a09a95f606a3f408777b9e0e63641cec25a1fd20bb514a0d7486eb7bc84257bf"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/computercraft/recipes/turtle_normal/computercraft/wireless_modem_advanced.json"
+hash = "35a79e782626e818d7385c91ac76e222c4da5944a1121b28bdd31f1e6d35eadb"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/computercraft/recipes/turtle_normal/computercraft/wireless_modem_normal.json"
+hash = "a6314d6ba3b42a67066d29a5bfbe57abd41478a085eea9637dc53c8c99381ca7"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/computercraft/recipes/turtle_normal/minecraft/crafting_table.json"
+hash = "f265a12a77cef1e09bab84f45df5d2ff6aa832f0e9fc84490b727f0c9acae5f0"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/computercraft/recipes/turtle_normal/minecraft/diamond_axe.json"
+hash = "ac684d238ad01f28fb1bee71cce18987f05789b03b86e5670937abbfec2cfdad"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/computercraft/recipes/turtle_normal/minecraft/diamond_hoe.json"
+hash = "6dfdd3019221b7f706cf4871076776560601c86f7f17427017dc8bcf1dce91c8"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/computercraft/recipes/turtle_normal/minecraft/diamond_pickaxe.json"
+hash = "5e825d4862a36d4315ffee945867fe584cda621c580feb6472963f14917fee28"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/computercraft/recipes/turtle_normal/minecraft/diamond_shovel.json"
+hash = "83b25eb71fa03c947c3a04af6f19f23d654e4894bd92309c906c3d7c0490e783"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/computercraft/recipes/turtle_normal/minecraft/diamond_sword.json"
+hash = "ad7b34f3aede8cb28b6797ce4d0ef1ba911b90b3e1bbe5e12eca5e019a4b6f1d"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/computercraft/recipes/turtle_normal_overlays/turtle_rainbow_overlay.json"
+hash = "9cbc5b749b5311e5dd0286487c03bc3aedde79365bcbc83d19b15ae9d2250530"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/computercraft/recipes/turtle_normal_overlays/turtle_trans_overlay.json"
+hash = "ffd1270d05425df6a94b3b8a8d53e49845419c8b124db7ce61740709adb8df23"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/computercraft/recipes/turtle_upgrade.json"
+hash = "1beb885b3e66151fc2ebf256ceef82e5f354331309e891c8fd65f35b6a170227"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/computercraft/recipes/wired_modem.json"
+hash = "8f432275f8aea2da4a934c38f42808f52e77babc250a87f916f1f719060bac61"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/computercraft/recipes/wired_modem_full_from.json"
+hash = "2f20f7185046c06a850a6b92ca081c858b46bea93a80d6ccb24253aea22e0741"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/computercraft/recipes/wired_modem_full_to.json"
+hash = "3f0bd65d225cf5207ecf10ce00812c37f1560ea22a0a29fc37d6d6f475ea3a5b"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/computercraft/recipes/wireless_modem_advanced.json"
+hash = "ed2a542cc31328f79bebdaf5708b2dd20dc5182e327accc5860f99f16e0107a8"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/computercraft/recipes/wireless_modem_normal.json"
+hash = "f1ce738b5844477c70a5e4e9b7f0139d5846114e36c82bdfbc4c028f6b251744"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/crossroads/tags/items/mushrooms.json"
+hash = "0677e2ad560299650ed6f2aa7769adbf3040f558ce1c69eec9b340fb4f104fe5"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/embers/recipes/alchemy/aluminum_crystal_seed.json"
+hash = "50701d6bf331302a0e4a486a2bdcf2a61b5aca3909b9ccbd7096ac171a19124d"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/embers/recipes/alchemy/copper_crystal_seed.json"
+hash = "e903080b76c2892c487378dc1cce1346b6584485862d3e424faaffeed417f063"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/embers/recipes/alchemy/gold_crystal_seed.json"
+hash = "c05cb3e8fd2384e7a91f16c8fad3eeede7a51751802882478393018f9db30360"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/embers/recipes/alchemy/iron_crystal_seed.json"
+hash = "82188bb7602bf2e21697765c3fbd0c832248bd0443aa3c8d0e605fe7810672ef"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/embers/recipes/alchemy/lead_crystal_seed.json"
+hash = "dfd9ed7245dc928af27cc9744c949054cea21a95e1e4ca56cedb071a65cdb987"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/embers/recipes/alchemy/silver_crystal_seed.json"
+hash = "9ef14a31ceae2af713ff3ce7bb11f8f5d2db34f20faa541a04e07aa8b2fde125"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/embers/recipes/alchemy/tin_crystal_seed.json"
+hash = "cb26e428a74b132c4dd9c08d54d5230c7bad646048b1ec8915fb2778b86f207c"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/embers/worldgen/placed_feature/ore_lead_placer.json"
+hash = "323d8b852d5af1a0c117cefb8da02cafa2bd2a3f6aaa5f5649f6fb3016df9d40"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/embers/worldgen/placed_feature/ore_silver_placer.json"
+hash = "fa987a1826b20d8b7c03ee6eae70d110d376d7f27d4af59acf20c9688902ad7a"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/forge/tags/items/raw_fishes.json"
+hash = "3693ef175d24a10346db90d57ef46fea5fa07da1732bb4647900f6cd8c504468"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/malum/recipes/spirit_altar.json"
+hash = "1b41140c64aece6868eee5d4b3b13e6fd8365b06cd215e627c3f93ca48a24795"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/malum/recipes/spirit_infusion/malignant_pewter_ingot.json"
+hash = "dfe2ae5ed437f1b17d1185d2f7c8ac2848629d5ea8e7e958c97f20abea547928"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/malum/recipes/spirit_infusion/runewood_totem_base.json"
+hash = "f34ffc1020b8d0eaba3b7acb2c7daffd5c3196a664a7d050f1321df34e8578d8"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/malum/recipes/spirit_infusion/soul_stained_steel_ingot.json"
+hash = "f8dc892d46d77d3eb400942639c7e42baa96c076053beacb753cf61ca79a74a2"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/malum/recipes/spirit_infusion/soulwood_totem_base.json"
+hash = "026e9456bfec0ea150ee1c1530ad3f8b8801156affaba91b56e07270429ab99c"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/spectrum/recipes/fusion_shrine/nightfalls_blade.json"
+hash = "4b514e8e30b943eacf63f773f071faa14eec48c5fd6e8a7e1d25bc0de70b5e78"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/spectrum/recipes/pedestal/tier3/omni_accelerator.json"
+hash = "d17b98e5f647fe94230e27275bca08c37e103311063bdea8c2b81a8a6ea38741"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/spectrum/recipes/pedestal/tier4/celestial_pocketwatch.json"
+hash = "5163a7625422ab8a3743314594b9b43d20e8173a5721afec7234c39e4ad5b483"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/storagedrawers/recipes/acacia_full_drawers_1.json"
+hash = "f16d6bb74f3b78aac8e90f7d1d425f28d62a96ff732d8616ef66782f1d5db6c3"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/storagedrawers/recipes/add_detached_upgrade.json"
+hash = "40a3dc8247e8045ca5126185115c76be1cc9d16bb5577e7000c5db18f78cc8b5"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/storagedrawers/recipes/add_upgrade.json"
+hash = "423852d23a452e6d5de6eba01f160a11782e49e6620dfda9fed0dc395b2b3ff3"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/storagedrawers/recipes/bamboo_full_drawers_1.json"
+hash = "9065d2eef298dc0550a0ee5e66722a29a6e37fa5bdbf1b842644457c8c7d93b7"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/storagedrawers/recipes/birch_full_drawers_1.json"
+hash = "682a3fc561c705cdcd1a385d154fff46a851e1e8662ff17ad4a136d606b71932"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/storagedrawers/recipes/cherry_full_drawers_1.json"
+hash = "f0e0f150c2d056097d8b752bc44a19f57db48e8e1b10a9e2f0125e975ec222ce"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/storagedrawers/recipes/crimson_full_drawers_1.json"
+hash = "208356bdc4866b4c6de0634d853757b1e176d54ecfe5f385de5bc78bd476248a"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/storagedrawers/recipes/dark_oak_full_drawers_1.json"
+hash = "d4844aff912aa44bcba281d4854749b646a253461fca1526f289c3bad4f1a860"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/storagedrawers/recipes/detached_drawer.json"
+hash = "5a591a04d1c6085754a9e899dc03916e1962430d869c1baba2a36671aa1eccad"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/storagedrawers/recipes/diamond_storage_upgrade.json"
+hash = "cf750deee8968877593c8ceb0e892a8e95b8eaf3435a56b54d16dcfbdc7fb6ad"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/storagedrawers/recipes/drawer_key.json"
+hash = "e88600feb5609af98b9e211b4603234d31cd3c3a1d0f34e199642984396f454b"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/storagedrawers/recipes/drawer_puller.json"
+hash = "a706076550bce911f021fb9a5f2da08fb0ae6eec4e84fea6a5120eb5d2cc3171"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/storagedrawers/recipes/emerald_storage_upgrade.json"
+hash = "4e97e326b0813c39ef2d532e83e62082029353d93935f0a6f2df3ea95b43b15c"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/storagedrawers/recipes/fill_level_upgrade.json"
+hash = "46a126ca70cb84a8b4bf240d469a07de3bb9a24b58eaddebcb1b76c307e7193d"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/storagedrawers/recipes/framing_table.json"
+hash = "1ac988d0fc61315c5e69fd90894c69bcd415ad3ec064cfa9f865a44f310cafb9"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/storagedrawers/recipes/gold_storage_upgrade.json"
+hash = "da189d4407aafd692692fd8a22cfe2683aa39509a186cef8b8ac2fa6be9cebb8"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/storagedrawers/recipes/illumination_upgrade.json"
+hash = "2520f5f4e8c45c5e345311f95bf77c0633fe110c15531ce0d9abb6f417cc19bd"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/storagedrawers/recipes/iron_storage_upgrade.json"
+hash = "d61e14edebc0dbc1c57414c9db9e457a232b82003e39def08d673564607c7dfe"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/storagedrawers/recipes/jungle_full_drawers_1.json"
+hash = "4812657d3ced4993f1d4d85e192ee9566ba4ce89a8ba779a2cd2adc5313c069e"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/storagedrawers/recipes/keybutton_concealment.json"
+hash = "66072147d70e9a948b1c42178b82828c82672d17a0cd8bce337620edf991b164"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/storagedrawers/recipes/keybutton_drawer.json"
+hash = "c910faa7b689b3104b90354b1a63f303ce5feb48cf22dac1c43d95e32f3b58d2"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/storagedrawers/recipes/keybutton_quantify.json"
+hash = "bb710b23723451395f26adb43101d8c3ebf13c6585f1f799e782337c4b48db71"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/storagedrawers/recipes/keyring.json"
+hash = "e15da636047244d7ab2751c120955088e03e7cb33231adf0db9d7153b807c066"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/storagedrawers/recipes/mangrove_full_drawers_1.json"
+hash = "adde74ab951543e349986dfc2f95f631734ef1249077c0840584d39472f663a7"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/storagedrawers/recipes/max_redstone_upgrade.json"
+hash = "5b3e96a3a4ab12f7a27251d47d68efef119a64f9122d4dad182218e14e8454dc"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/storagedrawers/recipes/min_redstone_upgrade.json"
+hash = "fdd04a36a2670778e0813e5b354fb5409e23ceabe4adacec740ea1859ddb160e"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/storagedrawers/recipes/oak_full_drawers_1.json"
+hash = "f6f56463981078adbbdbc6dd4d59dd310699ce5b5c28403778f6b786d46c395c"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/storagedrawers/recipes/obsidian_storage_upgrade.json"
+hash = "6b6539ff796332bb0ff73ddf71348828819cfcf9e8085fc0f06a988e9628d568"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/storagedrawers/recipes/one_stack_upgrade.json"
+hash = "a158a099e73cab4091afb24aae4508bfc2bd58c212f38d78ca0ebaac81149b7e"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/storagedrawers/recipes/personal_key.json"
+hash = "b77b8d78bd494a265336c63b2cf16671f735a03bd8ccc06a8eab03382565323b"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/storagedrawers/recipes/priority_key.json"
+hash = "a5688f9a99d36c42c4387e4f6bc602fbd2ec02178f8a43b689102c92f5ef45c9"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/storagedrawers/recipes/quantify_key.json"
+hash = "d122ae8d2e136a64c3aa6ecb21a184a2f1727b85209b31e1ae0f3493a1a86ff5"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/storagedrawers/recipes/redstone_upgrade.json"
+hash = "c993e4b584f7600165501d1c96974adefaad4fb2217b8db73f62c229884749d2"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/storagedrawers/recipes/shroud_key.json"
+hash = "6aa6a9bb241263e6c70a6b8d315013bf512c8a7577c35023ac4fdda63bf78de5"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/storagedrawers/recipes/spruce_full_drawers_1.json"
+hash = "4d62530b6e067a2e3d7d0649f2ba33776a0e6c0498782cc8a5059f8b0cfb3af1"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/storagedrawers/recipes/upgrade_template.json"
+hash = "65a778e712043a86055a5b69722c383049ab11ccbf8bab6c56d1ca84d306403a"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/storagedrawers/recipes/void_upgrade.json"
+hash = "7431a0399e452882ea77be30c1b689f8bd6645c2b420ee7384cb6b2f06f90605"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/storagedrawers/recipes/warped_full_drawers_1.json"
+hash = "0b52ec69a4561f1e4c184ddcbdc84c4cd3c6ce244168dbe6b4883b6eb4199e93"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/wyrmzardry/advancements/unlocks/music_disc_chroma_zero.json"
+hash = "ac874d4be89402fa9e722682e19bb579819df007036f049d45cc609126a81fb2"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/wyrmzardry/advancements/unlocks/music_disc_explorer.json"
+hash = "0da5dbb95caa0ed42c28194fce6bbca38691341071d10648f86533b706195661"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/wyrmzardry/advancements/unlocks/music_disc_hold.json"
+hash = "44af0e82c55cf9fd5eef3d24257307d953e96e9d1e864ed6b4f7a975d88dbe31"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/wyrmzardry/advancements/unlocks/music_disc_until_the_end.json"
+hash = "d8f5bb1dc7e016b802a9a8e1aabf8c0bbbab31708780e21b861e0e4efad6a61c"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/wyrmzardry/advancements/unlocks/music_disc_you_may_not_rest_now.json"
+hash = "7b4e2b327b13f923eb84792b747c805a92ab47eb9ca59eeb24d0329f24829c19"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/wyrmzardry/advancements/unlocks/weeping_well_of_midnight.json"
+hash = "3f4ee2510bd8bc167d838dd04851dc1a45042d5c4aa5a96047f3d36a91042f78"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/wyrmzardry/complicated_bees/comb/citrine.json"
+hash = "78534c4db1ff6b1db9ed90ec913b6c2f8601ba7455683f0d53d23f4f8f937325"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/wyrmzardry/complicated_bees/comb/xychorium.json"
+hash = "aca217be1be0040d26c720c7a9b9ec33300617bfbd94b7185166709b268df5e6"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/wyrmzardry/complicated_bees/flower/deeper_down_flora.json"
+hash = "08e1995bc901296e728770ffa493e475885554fc965f5d48d65a3eadec489d6c"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/wyrmzardry/complicated_bees/mutation/vitreus/crystalline.json"
+hash = "f5406e70835f6c6e588a8937fd712b3e1afbc2d4a96b5d2f4cd2ebbc48f00f75"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/wyrmzardry/complicated_bees/species/crystalline.json"
+hash = "ed9891c5796814a75d9b556e987b2c138a6009778042c84aeef4bda219c05317"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/wyrmzardry/recipes/beam_extract/amethyst_shard.json"
+hash = "f715780001126ebe740d2b1d6e3790400dc901fb0e53392ddec877748d9240b5"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/wyrmzardry/recipes/beam_extract/citrine_shard.json"
+hash = "e75dcf96035e7f406f3a6ed50c4d900e5ab9b983871ea051f1d59da52d3f312a"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/wyrmzardry/recipes/beam_extract/moonstone_shard.json"
+hash = "236e43bae6d979cb3a52dc4bf88c8ff47f6eaaf6c651dd27e57f3baa7f45cf9a"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/wyrmzardry/recipes/beam_extract/onyx_shard.json"
+hash = "986f14e0383a3ca87fb0f2d70e34a30012975bb4c955704f6ecbb39b5540b132"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/wyrmzardry/recipes/beam_extract/topaz_shard.json"
+hash = "5498c84d83683bca3aed3375a12340af513bc6675266c532b19d547c5e79d48f"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/wyrmzardry/recipes/blasting/clump_aluminum.json"
+hash = "6ee981b1b8b34a8104d0a65fe5c5bd26703b9492595904cc5ef341672db5ca52"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/wyrmzardry/recipes/blasting/clump_lead.json"
+hash = "fa94c97595063159999e98511c01081383df12fd4ada1ff44cae28192b582ef6"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/wyrmzardry/recipes/blasting/clump_silver.json"
+hash = "69aa8de7a0c3ee4492993d086fe21727ae499eeeaddbaf5b70df6eeff87bfa9c"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/wyrmzardry/recipes/blasting/gravel_aluminum.json"
+hash = "35e3293a2e1454a5d2f6a11244827d938a309102354dc774ee281557c05ced69"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/wyrmzardry/recipes/blasting/gravel_lead.json"
+hash = "c57c61062fe75a9ae4bfe66d2b774d3cd03df415b16f85ea5e05df2a58aac951"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/wyrmzardry/recipes/blasting/gravel_silver.json"
+hash = "278ddf46a19942abc50a307b3c5091a0ca41115f657a2a2330f8f8b20e106f0a"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/wyrmzardry/recipes/block_heat_properties/blazing_crystal.json"
+hash = "2cc6c16db9faa2c93fa48e17e533b9051eb6db0c8bf3babf7894fbcd59a572d0"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/wyrmzardry/recipes/block_heat_properties/frostbite_crystal.json"
+hash = "161f1920d5dffa0636b9b772ac756380c7171977af16cc5e819b6f4dd9027d6d"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/wyrmzardry/recipes/crafting/crossroads_parts/axle_aluminum.json"
+hash = "b476fd6f1dcaa4b93fde66c561180690b4867ccd95c6e032ab43ab2d90fb980a"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/wyrmzardry/recipes/crafting/crossroads_parts/axle_lead.json"
+hash = "daf0b921c9ecfb8ccf0633a977538b5e968ab6f4a20a13ad704fdfe9a7e18173"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/wyrmzardry/recipes/crafting/crossroads_parts/axle_mount_aluminum.json"
+hash = "43052f6d297ca592b8e4eedd528fe6c67dd7b2565bc99d312db8faf01092aab4"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/wyrmzardry/recipes/crafting/crossroads_parts/axle_mount_lead.json"
+hash = "b0ce37fb95a0439211bf88e6da080850d789d3e0a0bd93be4ea8add0af0fde5d"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/wyrmzardry/recipes/crafting/crossroads_parts/axle_mount_silver.json"
+hash = "c02ce06817fd11622d1b327fa8fd86faf6777559412397e597ad487c638b39b1"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/wyrmzardry/recipes/crafting/crossroads_parts/axle_silver.json"
+hash = "c50c2fda3dcb7c99bb2636e1ad007f64df522534180d48e15c41fff46d6bbc1a"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/wyrmzardry/recipes/crafting/crossroads_parts/clutch_aluminum.json"
+hash = "6ec93985d53640daa1a7355773a77c9aee7cfa207fd6d3b75f1bf13952dad107"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/wyrmzardry/recipes/crafting/crossroads_parts/clutch_lead.json"
+hash = "be19cf91db1905750e94ca9c392a426c3953df2594826bc3047069438e8150e2"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/wyrmzardry/recipes/crafting/crossroads_parts/clutch_silver.json"
+hash = "3d2ca092a2749389349578f6f3644fd854bb3c899d5d815651b1b679d23e4435"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/wyrmzardry/recipes/crafting/crossroads_parts/inv_clutch_aluminum.json"
+hash = "692528538a6d48706863b662e6e01691a4a627ae27360be1448339011c044dc8"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/wyrmzardry/recipes/crafting/crossroads_parts/inv_clutch_lead.json"
+hash = "e39717bf707f0f9c5bcb0c4187e1a8ec21736005253f1b7adab3dff94a339ab6"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/wyrmzardry/recipes/crafting/crossroads_parts/inv_clutch_silver.json"
+hash = "22f660547e5b1b27da61deb9f9ef55b9bf330e2c8362ad99bb45aada2e1d210c"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/wyrmzardry/recipes/crafting/crossroads_parts/inv_toggle_gear_aluminum.json"
+hash = "d84f73d5ab79bd1412cfee2fa34f475a5007249d144c047dd82a96d88e3ff417"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/wyrmzardry/recipes/crafting/crossroads_parts/inv_toggle_gear_lead.json"
+hash = "8194a6a4c6a570d788ecba77db82027e114325403ef1759e675bf72849949068"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/wyrmzardry/recipes/crafting/crossroads_parts/inv_toggle_gear_silver.json"
+hash = "281c0ec9c13052824cdccf9f3dc4e5a8c094f60bcf617ab17b6f17a72c4cb4b3"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/wyrmzardry/recipes/crafting/crossroads_parts/inv_toggle_gear_src_aluminum.json"
+hash = "3026b06430e19b62d21bb2cfe4f8bba6daaaa66ed7b52233f1f85dd6549d4283"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/wyrmzardry/recipes/crafting/crossroads_parts/inv_toggle_gear_src_lead.json"
+hash = "da7c42a2f48cb78a4b55d597334a91e98c889c9532682c846a954f6d3e6e2cf1"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/wyrmzardry/recipes/crafting/crossroads_parts/inv_toggle_gear_src_silver.json"
+hash = "747d7143566771ad54e13c62356cc69584823968a405eecf5945a2951918f915"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/wyrmzardry/recipes/crafting/crossroads_parts/large_gear_aluminum.json"
+hash = "5d5cfc0e768321235e027dca2bfe231fed155fb5575364159c8ceeb3eb84128c"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/wyrmzardry/recipes/crafting/crossroads_parts/large_gear_lead.json"
+hash = "5ef4cb137088ea9fc01dacda32b98b64e807b000a8cfc6f6e65bfdb2c9c71650"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/wyrmzardry/recipes/crafting/crossroads_parts/large_gear_silver.json"
+hash = "75409d1491876e14ea5dba23c5b6db464f90bb41f3e3f938c813bfb587d43792"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/wyrmzardry/recipes/crafting/crossroads_parts/large_gear_single_aluminum.json"
+hash = "3326714ca59bef1ad3dceebdfdcc780afba3d9adc15598e2ec3e70422d71c05c"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/wyrmzardry/recipes/crafting/crossroads_parts/large_gear_single_lead.json"
+hash = "10c520bfc4bf58791dc3c2377da0e4eb4fe317a5da582c9c73938e8ad8e10129"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/wyrmzardry/recipes/crafting/crossroads_parts/large_gear_single_silver.json"
+hash = "ea0810b45c2e337aea4ec84c6c71e2872f03228b36ad1f591a13c5735526d9a7"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/wyrmzardry/recipes/crafting/crossroads_parts/small_gear_aluminum.json"
+hash = "e7f552c41b43b39f7ba47a3ef75b76f51a8aeb2859335794909355797c22f36c"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/wyrmzardry/recipes/crafting/crossroads_parts/small_gear_lead.json"
+hash = "cc7b489334e7dae94a45bf280611a872990b2d3be5cb2071983acdb6f5d80dd2"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/wyrmzardry/recipes/crafting/crossroads_parts/small_gear_silver.json"
+hash = "8668f1808e315a8384a477a3d17d984bb37047c313a6acf7e09d24f19649402d"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/wyrmzardry/recipes/crafting/crossroads_parts/small_gear_single_aluminum.json"
+hash = "486548ab6df0b1ac51c74667ec89a3db96f328c072cc4512f3e9ec70aeab49be"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/wyrmzardry/recipes/crafting/crossroads_parts/small_gear_single_lead.json"
+hash = "90ea7e3ad3d6113ce9e25b03a521d193ecc03be56456a335eb2737261deab41b"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/wyrmzardry/recipes/crafting/crossroads_parts/small_gear_single_silver.json"
+hash = "bd1b75c2ec750900cadf9e392b456debc7d8c32704b19f74bfccef1831346212"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/wyrmzardry/recipes/crafting/crossroads_parts/toggle_gear_aluminum.json"
+hash = "d9ef967ad892901b3d7929fd99bd400a430ba0545d43cc428d513ab85740220d"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/wyrmzardry/recipes/crafting/crossroads_parts/toggle_gear_lead.json"
+hash = "370aea37695bfb0021fc0f26d343a17a23ca17f0fbac6604d4bcb3999ab37b62"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/wyrmzardry/recipes/crafting/crossroads_parts/toggle_gear_silver.json"
+hash = "5ebb7d66c262ad31534a260eff1189b121303a6b8c191273a8bada5ba1afb0eb"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/wyrmzardry/recipes/crucible/ingot_aluminum.json"
+hash = "fb4233c5c31db08f91fc5b2214a20275ba1e5547810df519696325ab0a48acc0"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/wyrmzardry/recipes/crucible/ingot_lead.json"
+hash = "0ee811d1f05628a255944405ee693711717e07d8454ed55527026ec044aed48b"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/wyrmzardry/recipes/crucible/ingot_silver.json"
+hash = "08789e204d19caba64d256bbb962404f54ea382100f2027e6b9e5bc868dc5e97"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/wyrmzardry/recipes/crucible/nugget_aluminum.json"
+hash = "49a204b316c078a7b4d475b6d7f6966d39f02073672076c0f7a2ec5ee9a4ae8b"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/wyrmzardry/recipes/crucible/nugget_lead.json"
+hash = "37a627bc46792ea01f6d70bbd3af41a6960ca1e196976baeb8b5a3dfc87fa206"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/wyrmzardry/recipes/crucible/nugget_silver.json"
+hash = "a2d3e1c13086e031d668e4876c5bac3b7b3d2db607c193f86d1c15edfc1383c1"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/wyrmzardry/recipes/crucible/raw_aluminum.json"
+hash = "166a872495f2208f46417c4d1a6eaa46a8bc5cdda813f753946eab44bca6f30d"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/wyrmzardry/recipes/crucible/raw_lead.json"
+hash = "4c2b056eb5745196b79ad24242e75af311200c69c0842cccdf2436c39fe2cb47"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/wyrmzardry/recipes/crucible/raw_silver.json"
+hash = "e3b41207e4b321462be1613c89c5db539f3b2120c1dce756e0513fdd60493539"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/wyrmzardry/recipes/digestion/sal_ammoniac_crystallization.json"
+hash = "5c4f788938a9501f22eed208541f6a5c131806a4f51809c0a3418c50993ae8ec"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/wyrmzardry/recipes/extractor/citrine_shard.json"
+hash = "e9197c9635f1d2befb41800bd5c99da19c56d7efb68f162a8041a6e53d78e276"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/wyrmzardry/recipes/extractor/citrine_shard_catalyst.json"
+hash = "94620c91ec773b560c424113c687f7d1046fe1090a45cbacc799d16cf4194c0a"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/wyrmzardry/recipes/extractor/citrine_shard_waterlogged.json"
+hash = "ba1080317541993fa1c334ed66b896334936ef9f817f31b0cd61b7af079461bf"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/wyrmzardry/recipes/extractor/citrine_shard_wb.json"
+hash = "3dc24f8cd40d48ed7b6210dee97961e4a0a7361b7b1c1b9d046f3e60b000cdec"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/wyrmzardry/recipes/extractor/citrine_shard_wb_catalyst.json"
+hash = "356f92c858878950150d3ce3b294a9cc5cf7cf10ab8f4ee0c9ed9fb438c65b1b"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/wyrmzardry/recipes/extractor/moonstone_shard.json"
+hash = "71e3e847a1eddf1ada9794a92223545d6c758400c5694a0816785106bfb5b3ea"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/wyrmzardry/recipes/extractor/moonstone_shard_catalyst.json"
+hash = "25b17807235ca4ca3a0f0e6266d03a1c55164a8c941aa99d9e428739abb27956"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/wyrmzardry/recipes/extractor/moonstone_shard_waterlogged.json"
+hash = "857049f1595a5b4b1c8b059ea6a10284b0c30ff8fd246cec4724bf145bb2aaec"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/wyrmzardry/recipes/extractor/moonstone_shard_wb.json"
+hash = "528e954af3bd2e67e4de018fa686e24e91c2e4fb308fa8446ae0fba899a0efd2"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/wyrmzardry/recipes/extractor/moonstone_shard_wb_catalyst.json"
+hash = "f81dbf2a6935cfa021b561eece30654bd88402829d48527679a0a52737d6ce4f"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/wyrmzardry/recipes/extractor/onyx_shard.json"
+hash = "6aba7bc41e59a74c3e703d623fb6d73755a8408e496c96fcb5345cde78f56ca5"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/wyrmzardry/recipes/extractor/onyx_shard_catalyst.json"
+hash = "65030d906d3e2e406de159c2e0748a117794889459f0f346ca305d653dce7c9b"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/wyrmzardry/recipes/extractor/onyx_shard_waterlogged.json"
+hash = "17663453124f433ec52e4a16a93d094434d13ae5ff8911102356179e26a0505f"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/wyrmzardry/recipes/extractor/onyx_shard_wb.json"
+hash = "54cdd423b24e7615c0f80fa2a273747ab627a68d10534b77bcfb36e868d20d20"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/wyrmzardry/recipes/extractor/onyx_shard_wb_catalyst.json"
+hash = "ce4d5cfb94164d39d11723b3322bf5713cc1516c65dcb30943d8a0cabddffb20"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/wyrmzardry/recipes/extractor/topaz_shard.json"
+hash = "58f75b16f618369990425711e8a8e62e49823078919015bff4cb8053aa694fb0"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/wyrmzardry/recipes/extractor/topaz_shard_catalyst.json"
+hash = "75aa2467985d016a3df840304be3ee62d72238f360098f735a44373bef559413"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/wyrmzardry/recipes/extractor/topaz_shard_waterlogged.json"
+hash = "e68147cf9467f605f4f6fca2ff6acc07029c9096cc75dca1c789f30d884242d3"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/wyrmzardry/recipes/extractor/topaz_shard_wb.json"
+hash = "5398c87d5f49b2990eff86e313bdfda84cf42fff0b42b43d89ebf0ce113ddce3"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/wyrmzardry/recipes/extractor/topaz_shard_wb_catalyst.json"
+hash = "4480b9d24712fbd4dad51efc1e8045e9fa91046964bf622615b2120351a1f107"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/wyrmzardry/recipes/fluid_cooling/molten_aluminum.json"
+hash = "4b35a5c54219deb1845f98edaf40e79d1bea8944222c4f9de9d6d625a7869afe"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/wyrmzardry/recipes/fluid_cooling/molten_lead.json"
+hash = "72dc36ff2de99184c5cf492cc991d0ec3069bd6537e250b2e174d2bc55bf7bb2"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/wyrmzardry/recipes/fluid_cooling/molten_silver.json"
+hash = "90416b12f96a361c74b7dd1d7dea178a173f74cceee352e061fefac2fb794c6c"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/wyrmzardry/recipes/ind_blast_furnace/clump_aluminum.json"
+hash = "e4e89f624e208df52bd230b103b6fc3432efc3996b5bc91fbbdfcdc657d3b0b3"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/wyrmzardry/recipes/ind_blast_furnace/clump_lead.json"
+hash = "530c4480abbd38969e0018b2155d54b475ffa96b2b84448ea1620cfed2d2c8a0"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/wyrmzardry/recipes/ind_blast_furnace/clump_silver.json"
+hash = "33b4485d498462b2ad7b4f7976335f51695fe0182809de509cb4cae84553a5ac"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/wyrmzardry/recipes/ind_blast_furnace/gravel_aluminum.json"
+hash = "e345f31fa7034a210757227f53b74e70927e99b8a64d824d1ba59ff9dc236e5b"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/wyrmzardry/recipes/ind_blast_furnace/gravel_lead.json"
+hash = "41f91633ccd6505582d4e5ac33d9fb27f50f98cc9823d586e985df53d884fea8"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/wyrmzardry/recipes/ind_blast_furnace/gravel_silver.json"
+hash = "e5fc6f4199fae5678faa31f777ad9dc53f23319afd38a5e69b14ee49626f37fd"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/wyrmzardry/recipes/ind_blast_furnace/raw_aluminum.json"
+hash = "9033dc7c7bef7a7343fed59ff3a320bac9a845e52a0b9ddea390bae91b90aca3"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/wyrmzardry/recipes/ind_blast_furnace/raw_lead.json"
+hash = "4e329647e76b3da82ec530ae44e16c26cdb25f19feba8daa3184461ae0d09d5a"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/wyrmzardry/recipes/ind_blast_furnace/raw_silver.json"
+hash = "d06b413a14360aa917966e05d480fd685281ece1ee84a5ec0bdebb28853b4783"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/wyrmzardry/recipes/midnight_solution_converting/auric_embers.json"
+hash = "5fdf42c3c376abf3c8120fd749b02c39e1312ff7ba12ba2f57e5c05084823842"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/wyrmzardry/recipes/midnight_solution_converting/malignant_lead.json"
+hash = "31be4468b761363c1d45d7a9c63c152dc004f38dbbf2825730df8bb5de26c778"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/wyrmzardry/recipes/midnight_solution_converting/mnemonic_fragment.json"
+hash = "f0b8d8a75070e871e4963f2bc5ed73ca10f0c5468a3279db15ddb161fcfefd0a"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/wyrmzardry/recipes/midnight_solution_converting/mnemonic_fragment_alt.json"
+hash = "f3d3f47a73d3fc601f25898a66a7fec69f8d9e735ea11c2038c384c0c7847691"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/wyrmzardry/recipes/midnight_solution_converting/null_slate.json"
+hash = "1f75abf66bde207c809045ee02084277595f26fe3984e6e275c5941ac1677de0"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/wyrmzardry/recipes/midnight_solution_converting/raw_soulstone.json"
+hash = "8d7afb58b7d499b41e6f6320203361e67623c91dfddd8399614a6c85b0682404"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/wyrmzardry/recipes/midnight_solution_converting/void_salts.json"
+hash = "271c39fe27f18f31dbffeb43120218f4d94e85995e947626d3f32564d7239693"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/wyrmzardry/recipes/mill/amethyst_shard.json"
+hash = "de4dc83a31100b6a4abac72c4ef2fd4e5c6c8e7b4280a594b34527c128d8bf15"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/wyrmzardry/recipes/mill/citrine_shard.json"
+hash = "8dc9011cbaafbba00f625150015243c321e550db44004a83979f4c6acef2576c"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/wyrmzardry/recipes/mill/moonstone_shard.json"
+hash = "6219c87f7a97d527d0d65e8fd2826f1847efa487b6470b1f305161c0196a58fc"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/wyrmzardry/recipes/mill/onyx_shard.json"
+hash = "e70e787e11409423616dd764712fafe49651e985a368937ae0bfddf1a983e713"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/wyrmzardry/recipes/mill/topaz_shard.json"
+hash = "ac085f6251c5db79fe1945d3b2167525edef30f9f5f4b1997d73bae06b71a2c7"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/wyrmzardry/recipes/ore_cleanser/gravel_aluminum.json"
+hash = "080959c7cd272d17c7c66d3978e072d36111884544bebfd46057ea2c1fae6bc2"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/wyrmzardry/recipes/ore_cleanser/gravel_lead.json"
+hash = "8e3a2c8059dcf33c116531af4d457c5a000ff7d3641631ebd2fabd36cfc88d89"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/wyrmzardry/recipes/ore_cleanser/gravel_silver.json"
+hash = "fd7c4ea047006a9c833874e1e20dc09667a83f15872f9ac6b0b362d7e4d88251"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/wyrmzardry/recipes/ore_cleanser/raw_aluminum.json"
+hash = "276e3eccf93461e0cc7cba40eff4909430f6b8057c5c9ca570cf9088581c0c18"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/wyrmzardry/recipes/ore_cleanser/raw_lead.json"
+hash = "44cd6d193088c8e751fb6117fce78f037aac196390ba181e4c868d9b571b5541"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/wyrmzardry/recipes/ore_cleanser/raw_silver.json"
+hash = "d1f01349b327921778275b44863f3ca4b52880658fe583e8e05b88eabc1c0959"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/wyrmzardry/recipes/smelting/clump_aluminum.json"
+hash = "202729e4960644a5a0a6afad8bfe91b103cc56c051840e75c50997c55ea8e63b"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/wyrmzardry/recipes/smelting/clump_lead.json"
+hash = "55450bb9c57953c529e769bfc0fca6a7dda0d82010ce43079cf1a081ca0469e4"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/wyrmzardry/recipes/smelting/clump_silver.json"
+hash = "f65fca1c6d9e91af61b42992819682bc08d19e0192850fde509e1eb7835272d6"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/wyrmzardry/recipes/smelting/gravel_aluminum.json"
+hash = "cbffaadde5d00b83329c9d34566eb7691859e79b260c20ce6660e6156d1ef8b4"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/wyrmzardry/recipes/smelting/gravel_lead.json"
+hash = "dbe4cad9b2c7781b2a51f75f2159af872d468d74d9f8bf8019fd88b3cde190ee"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/wyrmzardry/recipes/smelting/gravel_silver.json"
+hash = "159762b9a03b20940b077dfef50d6b40ccb1e214ec770a7bae76b532916fdca9"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/wyrmzardry/recipes/spirit_instiller/music_disc_chroma_zero.json"
+hash = "2131a52111b17e95484f38851439b2c5a2ec7832126f8e6a0cb15c168975728e"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/wyrmzardry/recipes/spirit_instiller/music_disc_explorer.json"
+hash = "e0577b2d00e489a43c4cc8ff300caf0f1ecb1251c568003c350ef7e09e187c45"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/wyrmzardry/recipes/spirit_instiller/music_disc_hold.json"
+hash = "36dfb5ee7c38225602de842a4083dda96ffadcc711c12af8c7b5fb4c5ce035cf"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/wyrmzardry/recipes/spirit_instiller/music_disc_until_the_end.json"
+hash = "07e57c7747b770d9ea109f4a0e8c55169134c45a4d78ad16ee67bd55b09f2e29"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/wyrmzardry/recipes/spirit_instiller/music_disc_you_may_not_rest_now.json"
+hash = "c72989f4e33986c5187567f3b3d0a0592caae0ab76af8f1b76c31a2789a1e9c7"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/wyrmzardry/recipes/stamp_mill/raw_aluminum.json"
+hash = "042ecbb0413be47c28f750449fb93c999cf1722afa4c0b7f727bc27e719f1ee8"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/wyrmzardry/recipes/stamp_mill/raw_lead.json"
+hash = "f9bef06fbb19a762d8bb66ec709b54555ac3a32cce0c7d9fcf79f49c56f2b37a"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/wyrmzardry/recipes/stamp_mill/raw_silver.json"
+hash = "22ef7cf253568e42b7859558749e16b8fb6752001cf2af0b83ee75ead4173498"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/wyrmzardry/tags/items/fertile_soils.json"
+hash = "05e63dbbe80c859bf7884ca82fbb8487b331c5335f34cc07a424b3d6a69ee281"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/xycraft_machines/recipes/shaped/planter.json"
+hash = "f3c385f89347c741f57aabfe9801bd1e0d70ecebb3b7adc9e80c2252a4387c44"
+
+[[files]]
+file = "resources/wyrmzardry-resources/pack.mcmeta"
+hash = "172f2f06383b98972622150a6b2e45f2703d9815432c0d70e1bef00efdf18466"

@@ -1,0 +1,11 @@
+{
+  "type": "spectrum:midnight_solution_converting",
+  "ingredient": {
+    "item": "malum:processed_soulstone"
+  },
+  "result": {
+    "item": "malum:null_slate",
+    "count": 1
+  },
+  "required_advancement": "wyrmzardry:unlocks/weeping_well_of_midnight"
+}

@@ -1,0 +1,10 @@
+{
+	"type": "crossroads:beam_extract",
+	"input": {
+		"item": "spectrum:citrine_shard"
+	},
+	"energy": 5,
+	"potential": 5,
+	"stability": 0,
+	"duration": 3
+}

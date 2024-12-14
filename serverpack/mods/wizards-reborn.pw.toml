@@ -1,0 +1,13 @@
+name = "Wizard's Reborn"
+filename = "wizards_reborn-1.20.1-0.2.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "afc03a9b133acb6b82772e259b155fd46602f67b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5939765
+project-id = 913994

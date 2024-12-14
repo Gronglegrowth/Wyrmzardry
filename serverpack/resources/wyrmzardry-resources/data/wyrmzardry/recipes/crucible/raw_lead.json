@@ -1,0 +1,10 @@
+{
+	"type": "crossroads:crucible",
+	"input": {
+		"tag": "forge:raw_materials/lead"
+	},
+	"output": {
+		"fluid": "embers:molten_lead",
+		"amount": 180
+	}
+}

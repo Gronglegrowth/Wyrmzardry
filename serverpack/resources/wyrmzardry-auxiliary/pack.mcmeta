@@ -1,0 +1,14 @@
+{
+    "pack": {
+        "pack_format": 15,
+        "description": "Wyrmzardry auxiliary datapack. :mojank:"
+    },
+    "filter": {
+        "block": [
+            {
+                "namespace": "^storagedrawers$",
+                "path": "^recipes/.*$"
+            }
+        ]
+    }
+}

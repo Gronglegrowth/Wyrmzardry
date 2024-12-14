@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "B": {"tag": "forge:ingots/bronze"},
+    "Q": {"item": "crossroads:bright_quartz"},
+    "R": {"tag": "forge:dusts/redstone"},
+    "C": { "item": "spectrum:liquid_crystal_bucket" }
+  },
+  "pattern": ["BBB", "RCQ", "BBB"],
+  "result": {"count": 4, "item": "computercraft:monitor_advanced"},
+  "show_notification": true
+}
