@@ -1,0 +1,10 @@
+{
+	"type": "crossroads:beam_extract",
+	"input": {
+		"item": "minecraft:amethyst_shard"
+	},
+	"energy": 5,
+	"potential": 0,
+	"stability": 5,
+	"duration": 3
+}

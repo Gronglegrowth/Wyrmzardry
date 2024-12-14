@@ -1,0 +1,10 @@
+{
+  "type": "pneumaticcraft:heat_properties",
+  "block": "spectrum:frostbite_crystal",
+  "temperature": 200,
+  "thermalResistance": 1000,
+  "heatCapacity": 10000,
+  "transformHot": {
+    "block": "minecraft:packed_ice"
+  }
+}

@@ -1,0 +1,16 @@
+filename = 'aetherworks-1.20.1-1.1.2.jar'
+name = 'Aetherworks Refracted'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'ec397918a73088ceeeee1f8b7f6f88b0c56dff775f6f77e9d3ca781633fc50aec8142484a6800b30894411b7b98904847a0ac7c125b190bcab3e08ca761e1bc8'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/6SRwIHdF/versions/cur43jXf/aetherworks-1.20.1-1.1.2.jar'
+
+[update.modrinth]
+mod-id = '6SRwIHdF'
+version = 'cur43jXf'

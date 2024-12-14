@@ -1,0 +1,62 @@
+{
+	"material.silver": "Silver",
+	"material.lead": "Lead",
+	"material.aluminum": "Aluminum",
+
+	"biome.blooming_biosphere.autumnal_forest": "Autumnal Forest",
+	"biome.blooming_biosphere.chaparral": "Chaparral",
+	"biome.blooming_biosphere.marsh": "Marsh",
+	"biome.blooming_biosphere.oak_woodland": "Oak Woodland",
+	"biome.blooming_biosphere.rainforest": "Rainforest",
+	"biome.blooming_biosphere.snowy_cherry_grove": "Snowy Cherry Grove",
+	"biome.blooming_biosphere.tidepools": "Tidepools",
+
+	"species.complicated_bees.wyrmzardry:crystalline": "Crystalline",
+    "species.complicated_bees.wyrmzardry:crystalline.genus": "Vitreus Crystallum",
+    "species.complicated_bees.wyrmzardry:crystalline.species_taxonomy": "A. vitreus crystallum",
+    "species.complicated_bees.wyrmzardry:crystalline.authority": "Eset Kalenko",
+    "species.complicated_bees.wyrmzardry:crystalline.flavor_text": "These bees seem to resonate with the strange gems from the geodes. Perhaps exposure to nature will help them flourish?",
+    "species.complicated_bees.wyrmzardry:crystalline.flavor_author": "The Art of Apimancy",
+
+    "species.complicated_bees.wyrmzardry:yellow": "Elemental Yellow",
+    "species.complicated_bees.wyrmzardry:yellow.genus": "Vitreus Kitrino",
+    "species.complicated_bees.wyrmzardry:yellow.species_taxonomy": "A. vitreus kitrino",
+    "species.complicated_bees.wyrmzardry:yellow.authority": "Eset Kalenko",
+    "species.complicated_bees.wyrmzardry:yellow.flavor_text": "This bee species delights in proximity to gemstone crystal clusters. Curiously, they also seem eager to blend with others.",
+    "species.complicated_bees.wyrmzardry:yellow.flavor_author": "The Art of Apimancy",
+
+	"species.complicated_bees.complicated_bees:amethyst": "Elemental Magenta",
+    "species.complicated_bees.complicated_bees:amethyst.genus": "Vitreus Kurauri",
+    "species.complicated_bees.complicated_bees:amethyst.species_taxonomy": "A. vitreus kurauri",
+    "species.complicated_bees.complicated_bees:amethyst.authority": "Eset Kalenko",
+    "species.complicated_bees.complicated_bees:amethyst.flavor_text": "This bee species delights in proximity to gemstone crystal clusters. Curiously, they also seem eager to blend with others.",
+    "species.complicated_bees.complicated_bees:amethyst.flavor_author": "The Art of Apimancy",
+
+    "species.complicated_bees.wyrmzardry:cyan": "Elemental Cyan",
+    "species.complicated_bees.wyrmzardry:cyan.genus": "Vitreus Vadali",
+    "species.complicated_bees.wyrmzardry:cyan.species_taxonomy": "A. vitreus vadali",
+    "species.complicated_bees.wyrmzardry:cyan.authority": "Eset Kalenko",
+    "species.complicated_bees.wyrmzardry:cyan.flavor_text": "This bee species delights in proximity to gemstone crystal clusters. Curiously, they also seem eager to blend with others.",
+    "species.complicated_bees.wyrmzardry:cyan.flavor_author": "The Art of Apimancy",
+
+    "species.complicated_bees.wyrmzardry:black": "Elemental Black",
+    "species.complicated_bees.wyrmzardry:black.genus": "Vitreus Kuro",
+    "species.complicated_bees.wyrmzardry:black.species_taxonomy": "A. vitreus kuro",
+    "species.complicated_bees.wyrmzardry:black.authority": "Eset Kalenko",
+    "species.complicated_bees.wyrmzardry:black.flavor_text": "This bee species delights in proximity to gemstone crystal clusters. Curiously, they also seem eager to blend with others.",
+    "species.complicated_bees.wyrmzardry:black.flavor_author": "The Art of Apimancy",
+
+    "species.complicated_bees.wyrmzardry:white": "Elemental White",
+    "species.complicated_bees.wyrmzardry:white.genus": "Vitreus Tahara",
+    "species.complicated_bees.wyrmzardry:white.species_taxonomy": "A. vitreus tahara",
+    "species.complicated_bees.wyrmzardry:white.authority": "Eset Kalenko",
+    "species.complicated_bees.wyrmzardry:white.flavor_text": "This bee species delights in proximity to gemstone crystal clusters. Curiously, they also seem eager to blend with others.",
+    "species.complicated_bees.wyrmzardry:white.flavor_author": "The Art of Apimancy",
+
+    "species.complicated_bees.wyrmzardry:white": "Compounded Lime",
+    "species.complicated_bees.wyrmzardry:white.genus": "Vitreus Asveste",
+    "species.complicated_bees.wyrmzardry:white.species_taxonomy": "A. vitreus asveste",
+    "species.complicated_bees.wyrmzardry:white.authority": "Prof. Simon Alixiati",
+    "species.complicated_bees.wyrmzardry:white.flavor_text": "Lime Bees are a product of color mixing applied to apiculture. I oft noticed this lively specimen pollinating all the flowers and trees in sight.",
+    "species.complicated_bees.wyrmzardry:white.flavor_author": "Spectrology in Nature, vol. II"
+}

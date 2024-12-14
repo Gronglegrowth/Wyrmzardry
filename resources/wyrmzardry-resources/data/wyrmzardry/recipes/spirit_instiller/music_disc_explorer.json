@@ -1,0 +1,32 @@
+{
+  "type": "spectrum:spirit_instiller",
+  "time": 1200,
+  "experience": 4.0,
+  "ingredient1": {
+    "tag": "minecraft:music_discs"
+  },
+  "ingredient2": {
+    "item": "spectrum:resonance_shard"
+  },
+  "center_ingredient": {
+    "item": "spectrum:stardust"
+  },
+  "result": {
+    "item": "etched:etched_music_disc",
+    "nbt": {
+      "Pattern": "1b",
+      "LabelColor": {
+        "Secondary": 11289023,
+        "Primary": 11289023
+      },
+      "Music": {
+        "Title": "ChromatiCraft Dimension Score 4 - \"Explorer\"",
+        "Author": "Reika",
+        "Url": "https://soundcloud.com/reikakalseki/chromaticraft-dimension-score-4-explorer"
+      },
+      "DiscColor": 3678790
+    }
+  },
+  "required_advancement": "wyrmzardry:unlocks/music_disc_explorer"
+}
+

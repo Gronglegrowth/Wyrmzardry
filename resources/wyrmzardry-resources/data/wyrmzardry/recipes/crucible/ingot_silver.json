@@ -1,0 +1,10 @@
+{
+	"type": "crossroads:crucible",
+	"input": {
+		"tag": "forge:ingots/silver"
+	},
+	"output": {
+		"fluid": "embers:molten_silver",
+		"amount": 90
+	}
+}

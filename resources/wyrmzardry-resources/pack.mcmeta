@@ -1,0 +1,26 @@
+{
+    "pack": {
+        "pack_format": 15,
+        "description": "Wyrmzardry resources."
+    },
+    "filter": {
+        "block": [
+            {
+                "namespace": "^crossroads$",
+                "path": "^recipes/base_materials/bronze_alloy.*$"
+            },
+            {
+                "namespace": "^travelersbackpack$",
+                "path": "^recipes/dragon.*$"
+            },
+            {
+                "namespace": "^chunkloaders$",
+                "path": "^recipes/advanced_chunk_loader.*$"
+            },
+            {
+                "namespace": "^chunkloaders$",
+                "path": "^recipes/ultimate_chunk_loader.*$"
+            }
+        ]
+    }
+}

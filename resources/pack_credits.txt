@@ -1,0 +1,2 @@
+"ComputerCraft Bronze V1.1-fixed.zip": https://modrinth.com/mod/computercraft-bronze; advanced turtle textures fixed by me
+"Armor_Icons_for_Dragons_2.zip": https://www.curseforge.com/minecraft/texture-packs/draconized-armor

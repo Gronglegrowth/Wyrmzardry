@@ -1,0 +1,31 @@
+{
+  "type": "spectrum:spirit_instiller",
+  "time": 1200,
+  "experience": 4.0,
+  "ingredient1": {
+    "tag": "minecraft:music_discs"
+  },
+  "ingredient2": {
+    "item": "spectrum:resonance_shard"
+  },
+  "center_ingredient": {
+    "item": "spectrum:whispy_tart"
+  },
+  "result": {
+    "item": "etched:etched_music_disc",
+    "nbt": {
+      "Pattern": "4b",
+      "LabelColor": {
+        "Secondary": 13328958,
+        "Primary": 13328958
+      },
+      "Music": {
+        "Title": "You may not rest now",
+        "Author": "Radiarc",
+        "Url": "https://radiarc.bandcamp.com/track/you-may-not-rest-now"
+      },
+      "DiscColor": 2895973
+    }
+  },
+  "required_advancement": "wyrmzardry:unlocks/music_disc_you_may_not_rest_now"
+}

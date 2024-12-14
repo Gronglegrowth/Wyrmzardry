@@ -1,0 +1,32 @@
+{
+  "type": "malum:spirit_infusion",
+  "extra_items": [
+    {
+      "count": 4,
+      "item": "malum:processed_soulstone"
+    },
+    {
+      "count": 1,
+      "item": "eidolon:soul_shard"
+    }
+  ],
+  "input": {
+    "count": 1,
+    "item": "pneumaticcraft:ingot_iron_compressed"
+  },
+  "output": {
+    "item": "malum:soul_stained_steel_ingot"
+  },
+  "spirits": [
+    {
+      "type": "wicked",
+      "count": 3
+    },
+    {
+      "type": "earthen"
+    },
+    {
+      "type": "arcane"
+    }
+  ]
+}

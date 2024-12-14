@@ -1,0 +1,16 @@
+filename = 'complicated_bees-1.20.1-1.1.5.jar'
+name = 'Complicated Bees'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '8510444e6475412f7b7ca89c3214548242db885f61c645fc0f9d1d25ed103ee5e31b29acb06b9e30ff0c85163e826fb79bffcbdd1d12d1992c23632c1c8bd7e0'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/uhqEKIQS/versions/en6GipDI/complicated_bees-1.20.1-1.1.5.jar'
+
+[update.modrinth]
+mod-id = 'uhqEKIQS'
+version = 'en6GipDI'

@@ -1,0 +1,10 @@
+{
+	"type": "crossroads:mill",
+	"input": {
+		"item": "spectrum:onyx_shard"
+	},
+	"output": {
+		"item": "spectrum:onyx_powder",
+		"count": 2
+	}
+}

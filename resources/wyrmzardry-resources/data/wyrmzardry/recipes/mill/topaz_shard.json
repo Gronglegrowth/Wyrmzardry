@@ -1,0 +1,10 @@
+{
+	"type": "crossroads:mill",
+	"input": {
+		"item": "spectrum:topaz_shard"
+	},
+	"output": {
+		"item": "spectrum:topaz_powder",
+		"count": 2
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"type": "crossroads:beam_extract",
+	"input": {
+		"item": "spectrum:onyx_shard"
+	},
+	"energy": 0,
+	"potential": 0,
+	"stability": 0,
+	"void": 10,
+	"duration": 3
+}

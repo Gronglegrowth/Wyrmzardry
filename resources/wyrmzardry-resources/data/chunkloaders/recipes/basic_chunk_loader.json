@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "TET",
+    "DBD",
+    "TET"
+  ],
+  "key": {
+    "E": {
+      "item": "spectrum:stratine_fragments"
+    },
+    "D": {
+      "item": "xycraft_world:xychorium_gem_dark"
+    },
+    "B": {
+      "item": "xycraft_machines:machine_base"
+    },
+    "T": {
+      "item": "spectrum:topaz_shard"
+    }
+  },
+  "result": {
+    "item": "chunkloaders:basic_chunk_loader"
+  }
+}

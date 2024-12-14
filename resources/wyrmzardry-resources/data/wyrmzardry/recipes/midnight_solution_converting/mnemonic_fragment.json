@@ -1,0 +1,11 @@
+{
+  "type": "spectrum:midnight_solution_converting",
+  "ingredient": {
+    "item": "malum:chunk_of_brilliance"
+  },
+  "result": {
+    "item": "malum:mnemonic_fragment",
+    "count": 1
+  },
+  "required_advancement": "wyrmzardry:unlocks/weeping_well_of_midnight"
+}

@@ -1,0 +1,19 @@
+{
+	"type": "crossroads:ore_cleanser",
+	"output": {
+		"item": "crossroads:ore_clump",
+		"count": 1,
+		"nbt": {
+			"material": "silver"
+		}
+	},
+	"ingredient": [
+		{
+			"type": "forge:nbt",
+			"item": "crossroads:ore_gravel",
+			"nbt": {
+				"material": "silver"
+			}
+		}
+	]
+}

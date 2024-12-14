@@ -1,0 +1,31 @@
+{
+  "type": "spectrum:spirit_instiller",
+  "time": 1200,
+  "experience": 4.0,
+  "ingredient1": {
+    "tag": "minecraft:music_discs"
+  },
+  "ingredient2": {
+    "item": "spectrum:resonance_shard"
+  },
+  "center_ingredient": {
+    "item": "spectrum:dragonbone_chunk"
+  },
+  "result": {
+    "item": "etched:etched_music_disc",
+    "nbt": {
+      "Pattern": "3b",
+      "LabelColor": {
+        "Secondary": 8010529,
+        "Primary": 8010529
+      },
+      "Music": {
+        "Title": "Until the End",
+        "Author": "Radiarc",
+        "Url": "https://radiarc.bandcamp.com/track/until-the-end-2"
+      },
+      "DiscColor": 2895973
+    }
+  },
+  "required_advancement": "wyrmzardry:unlocks/music_disc_until_the_end"
+}

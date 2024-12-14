@@ -1,0 +1,10 @@
+{
+  "type": "pneumaticcraft:heat_properties",
+  "block": "spectrum:blazing_crystal",
+  "temperature": 2000,
+  "thermalResistance": 1000,
+  "transformCold": {
+    "block": "minecraft:magma_block"
+  },
+  "heatCapacity": 10000
+}
