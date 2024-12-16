@@ -1,0 +1,10 @@
+{
+	"type": "crossroads:mill",
+	"input": {
+		"item": "paganbless:cinnabar"
+	},
+	"output": {
+		"item": "redstone",
+		"count": 5
+	}
+}

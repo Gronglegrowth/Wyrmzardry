@@ -1,0 +1,16 @@
+{
+	"type": "crossroads:mill",
+	"input": {
+		"tag": "forge:ores/redstone"
+	},
+	"output": [
+		{
+			"item": "paganbless:cinnabar",
+			"count": 3
+		}
+		{
+			"item": "sand",
+			"count": 1
+		}
+	]
+}

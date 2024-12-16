@@ -1245,6 +1245,10 @@ file = "resources/wyrmzardry-resources/data/computercraft/recipes/wireless_modem
 hash = "f1ce738b5844477c70a5e4e9b7f0139d5846114e36c82bdfbc4c028f6b251744"
 
 [[files]]
+file = "resources/wyrmzardry-resources/data/crossroads/recipes/mill/ore_redstone.json"
+hash = "65682084bfd9a19581e67cb56430bf9f726549c57231295fda4d570759865042"
+
+[[files]]
 file = "resources/wyrmzardry-resources/data/crossroads/tags/items/mushrooms.json"
 hash = "0677e2ad560299650ed6f2aa7769adbf3040f558ce1c69eec9b340fb4f104fe5"
 
@@ -1311,6 +1315,14 @@ hash = "f8dc892d46d77d3eb400942639c7e42baa96c076053beacb753cf61ca79a74a2"
 [[files]]
 file = "resources/wyrmzardry-resources/data/malum/recipes/spirit_infusion/soulwood_totem_base.json"
 hash = "026e9456bfec0ea150ee1c1530ad3f8b8801156affaba91b56e07270429ab99c"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/minecraft/loot_tables/blocks/deepslate_redstone_ore.json"
+hash = "0aca5a89a77a5e7372ad7324df0940ae55028033cd95bf8ab4dc28d5f1563443"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/minecraft/loot_tables/blocks/redstone_ore.json"
+hash = "48a26a6e4b1cec2a53c91ccb3160d49d778a82117831d35c00c75866a4f22034"
 
 [[files]]
 file = "resources/wyrmzardry-resources/data/spectrum/recipes/fusion_shrine/nightfalls_blade.json"
@@ -1903,6 +1915,10 @@ hash = "271c39fe27f18f31dbffeb43120218f4d94e85995e947626d3f32564d7239693"
 [[files]]
 file = "resources/wyrmzardry-resources/data/wyrmzardry/recipes/mill/amethyst_shard.json"
 hash = "de4dc83a31100b6a4abac72c4ef2fd4e5c6c8e7b4280a594b34527c128d8bf15"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/wyrmzardry/recipes/mill/cinnabar.json"
+hash = "9e1c615475c93d3a1bd9075d3868062e2a0b2604e5098d9070d2b6daf08413e8"
 
 [[files]]
 file = "resources/wyrmzardry-resources/data/wyrmzardry/recipes/mill/citrine_shard.json"
