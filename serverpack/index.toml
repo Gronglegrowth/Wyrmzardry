@@ -874,6 +874,11 @@ hash = "5470c6c99739cfdd806f88d408c79fd5705b088abd27901998b7f64d5e0fe02f"
 metafile = true
 
 [[files]]
+file = "mods/spectral-sync.pw.toml"
+hash = "1442d11df9f8b5a16669927206471e67182f9201dd3b004e054681df45bec96e"
+metafile = true
+
+[[files]]
 file = "mods/spectrum.pw.toml"
 hash = "f904ee481dcdd5b2b51a71a34bab2c3a2e6754316f389ed00f6cd0179689fcbf"
 metafile = true
@@ -1242,6 +1247,10 @@ hash = "f1ce738b5844477c70a5e4e9b7f0139d5846114e36c82bdfbc4c028f6b251744"
 [[files]]
 file = "resources/wyrmzardry-resources/data/crossroads/tags/items/mushrooms.json"
 hash = "0677e2ad560299650ed6f2aa7769adbf3040f558ce1c69eec9b340fb4f104fe5"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/dragon-survival/recipes/double_quartz.json"
+hash = "cca0ddeca6f4236a025203eb905beba86021dcf48f8c72d8b16919b8051a9caa"
 
 [[files]]
 file = "resources/wyrmzardry-resources/data/embers/recipes/alchemy/aluminum_crystal_seed.json"

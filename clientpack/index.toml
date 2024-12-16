@@ -879,6 +879,11 @@ hash = "5470c6c99739cfdd806f88d408c79fd5705b088abd27901998b7f64d5e0fe02f"
 metafile = true
 
 [[files]]
+file = "mods/spectral-sync.pw.toml"
+hash = "1442d11df9f8b5a16669927206471e67182f9201dd3b004e054681df45bec96e"
+metafile = true
+
+[[files]]
 file = "mods/spectrum.pw.toml"
 hash = "f904ee481dcdd5b2b51a71a34bab2c3a2e6754316f389ed00f6cd0179689fcbf"
 metafile = true
