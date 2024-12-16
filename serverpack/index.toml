@@ -854,6 +854,11 @@ hash = "3c09944647988453baf03b55ff6190fbe97e367196b2487fb84c93ca2ee28f6e"
 metafile = true
 
 [[files]]
+file = "mods/servercore.pw.toml"
+hash = "ad28b6da4783f9cc5e469e3073c2c94592d72cddfeb0d51b4c3dc406c3e5f512"
+metafile = true
+
+[[files]]
 file = "mods/simple-storage-network.pw.toml"
 hash = "be73b63afc28ebd84cb3e6b7023c71720e11fcb2dd057dcf12033a6509753a3e"
 metafile = true
