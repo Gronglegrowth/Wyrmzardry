@@ -406,7 +406,7 @@
 		# Note: See the itlt wiki for more info.
 		# 
 		# Note: This will override the enableEnhancedVanillaIcon when a valid custom icon is found.
-		enableCustomIcon = false
+		enableCustomIcon = true
 		# 
 		# Enable this if you want itlt to use its HiDPI-aware (aka Retina support) icon setting
 		# feature with the Vanilla game icon, obtained directly from the game's resources.
@@ -420,5 +420,5 @@
 		# icon.ico/icon.icns/icon.png file if available.
 		# 
 		# Note: enableCustomIcon must be enabled for this to take effect.
-		enableUsingAutodetectedIcon = true
+		enableUsingAutodetectedIcon = false
 

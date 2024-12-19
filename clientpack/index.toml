@@ -262,7 +262,11 @@ hash = "88267e04d2d0cd877160cff52f764cb97633468cd0a969f89b87e9be7445d406"
 
 [[files]]
 file = "config/itlt-client.toml"
-hash = "a865e1c0be5da957681629733f52a8aee8d4f9c85e1ce609a499daa64171261a"
+hash = "91a1b80a9efebbe49f49b53a75886b13853883e89752da525425d905d7407e38"
+
+[[files]]
+file = "config/itlt/icon.png"
+hash = "9ecb1e37b044ebf88b4d66f503430641bce9d1e980a526cce95f156a5b963fe7"
 
 [[files]]
 file = "config/jade/hide-blocks.json"
