@@ -509,6 +509,10 @@ file = "config/zzz_rawr/config.toml"
 hash = "3e8bbb8906f1c91cdab9148f84c138f74e2b5d16433c77a6b3784968e7ceeedb"
 
 [[files]]
+file = "defaultconfigs/dragonsurvival-server.toml"
+hash = "5220bc6533298f8e4c3eaa1d2155cb9091c22850619a5e74fa85a9db0f73b639"
+
+[[files]]
 file = "mods/accessories-cc-layer.pw.toml"
 hash = "d84961fe65fcb7f4da1689bdc7a1f1b8ce751a2b1eff2b18fb1f5c8027d22042"
 metafile = true
