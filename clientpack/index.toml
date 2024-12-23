@@ -881,11 +881,6 @@ hash = "2cb8dd9a3944a6430b49916a4fe1b6cf0bd7efd907054f8e679a02717149404f"
 metafile = true
 
 [[files]]
-file = "mods/selene.pw.toml"
-hash = "3c09944647988453baf03b55ff6190fbe97e367196b2487fb84c93ca2ee28f6e"
-metafile = true
-
-[[files]]
 file = "mods/simple-storage-network.pw.toml"
 hash = "981e43edb0f77a7bfdb7543e9a4956841f574ebab9eb8135595dddcdf2c839a0"
 metafile = true
