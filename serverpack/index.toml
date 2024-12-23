@@ -1269,7 +1269,7 @@ hash = "f1ce738b5844477c70a5e4e9b7f0139d5846114e36c82bdfbc4c028f6b251744"
 
 [[files]]
 file = "resources/wyrmzardry-resources/data/crossroads/recipes/mill/ore_redstone.json"
-hash = "65682084bfd9a19581e67cb56430bf9f726549c57231295fda4d570759865042"
+hash = "31864c9346b89895b21ff2d4e03b8bd1535ed4024bfcd06bf32090d94b986977"
 
 [[files]]
 file = "resources/wyrmzardry-resources/data/crossroads/tags/items/mushrooms.json"
