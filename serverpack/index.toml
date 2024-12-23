@@ -25,6 +25,10 @@ file = "config/aetherworks-common.toml"
 hash = "001aa15f47538c42dcf1a0c65ae6ff6c6da641c1b5aa95b7b0036fc1d3c3fd90"
 
 [[files]]
+file = "config/akashictome-common.toml"
+hash = "c3256c9cd749a5c25d1c7b1866ce6205ebfdfaa387761091908d3da60afd3664"
+
+[[files]]
 file = "config/almostunified/debug.json"
 hash = "3e03a291b5310a6b94a45aff63e4731baa643701c42a968ed716483ccd1d5a37"
 
@@ -510,7 +514,7 @@ hash = "3e8bbb8906f1c91cdab9148f84c138f74e2b5d16433c77a6b3784968e7ceeedb"
 
 [[files]]
 file = "defaultconfigs/dragonsurvival-server.toml"
-hash = "5220bc6533298f8e4c3eaa1d2155cb9091c22850619a5e74fa85a9db0f73b639"
+hash = "0607b1d4e23907fa26b12194325990aa99228bf4a453a670ed19e7c96bd895da"
 
 [[files]]
 file = "mods/accessories-cc-layer.pw.toml"
