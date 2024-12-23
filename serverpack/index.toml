@@ -1348,6 +1348,10 @@ file = "resources/wyrmzardry-resources/data/minecraft/loot_tables/blocks/redston
 hash = "48a26a6e4b1cec2a53c91ccb3160d49d778a82117831d35c00c75866a4f22034"
 
 [[files]]
+file = "resources/wyrmzardry-resources/data/primalmagick/grimoire/dissolution_chamber.json"
+hash = "916636e0d8653705b53b49d2c0541040c2e60be38370c057a25b412b312221b6"
+
+[[files]]
 file = "resources/wyrmzardry-resources/data/spectrum/recipes/fusion_shrine/nightfalls_blade.json"
 hash = "4b514e8e30b943eacf63f773f071faa14eec48c5fd6e8a7e1d25bc0de70b5e78"
 
