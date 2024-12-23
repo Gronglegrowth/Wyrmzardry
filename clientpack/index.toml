@@ -727,7 +727,7 @@ metafile = true
 
 [[files]]
 file = "mods/forgified-fabric-api.pw.toml"
-hash = "fd4067afb2907fbe9c2077a52b2528d8612d4ac400645942f6367c83df44602b"
+hash = "e6c184b3eab95901a7a54dcec7a30a197538d5f580febceb1a1b461b16a75dc1"
 metafile = true
 
 [[files]]
@@ -803,6 +803,11 @@ metafile = true
 [[files]]
 file = "mods/modonomicon.pw.toml"
 hash = "d3a4e2a13a72c8ebe492df7601b431dd5bf7c5d141124eaab7c41399cde3f632"
+metafile = true
+
+[[files]]
+file = "mods/moonlight.pw.toml"
+hash = "5781be25e0015e0734233f2bcffe225833d49ef34f30452525ddd6a1a919836b"
 metafile = true
 
 [[files]]
@@ -882,7 +887,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-storage-network.pw.toml"
-hash = "be73b63afc28ebd84cb3e6b7023c71720e11fcb2dd057dcf12033a6509753a3e"
+hash = "981e43edb0f77a7bfdb7543e9a4956841f574ebab9eb8135595dddcdf2c839a0"
 metafile = true
 
 [[files]]
