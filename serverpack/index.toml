@@ -514,7 +514,7 @@ hash = "3e8bbb8906f1c91cdab9148f84c138f74e2b5d16433c77a6b3784968e7ceeedb"
 
 [[files]]
 file = "defaultconfigs/dragonsurvival-server.toml"
-hash = "0607b1d4e23907fa26b12194325990aa99228bf4a453a670ed19e7c96bd895da"
+hash = "8199a1f8299f9af1d15416681d5f574d77ba71007df1b8548c88cca6aeb7d044"
 
 [[files]]
 file = "mods/accessories-cc-layer.pw.toml"
