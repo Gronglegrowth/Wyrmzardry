@@ -369,6 +369,10 @@ file = "config/paganbless-common.toml"
 hash = "496853bef508d40ab189905df948e0c4bf9cb1ee6e84eb46fd97dc6f5e6014e0"
 
 [[files]]
+file = "config/passablefoliage-common.yaml"
+hash = "c38c6a21b7c98c52db5ac0ef7dcd9ce797144461eefce55fa9f52899f13da73c"
+
+[[files]]
 file = "config/patchouli-client.toml"
 hash = "3b6236845f6a5ff8804487b63b0d74305b91316dc9a008362838607b0be3bd8e"
 
@@ -766,6 +770,11 @@ hash = "60813bd83b6042f9c218e718a990e81757681f19d6a4b9b3860f529c8b651960"
 metafile = true
 
 [[files]]
+file = "mods/kiwi.pw.toml"
+hash = "0aa8b1c8e32af9247bfddf8851867dba6a18bdd8d8fdea13513be7afd76a2180"
+metafile = true
+
+[[files]]
 file = "mods/labels.pw.toml"
 hash = "a67c263f0fa570bacc78b6898bced0a74827649b9636c7ccd954f106cea5b964"
 metafile = true
@@ -831,6 +840,11 @@ hash = "539b9ef2d9ad7b7fa23cd8d00ef88cfa1dd9a2942b86c60fe154ec169501722f"
 metafile = true
 
 [[files]]
+file = "mods/passable-foliage.pw.toml"
+hash = "f91a64c882852a69979bbb1590c9f94f10c911ea1b3ed1f200000557530095b6"
+metafile = true
+
+[[files]]
 file = "mods/patchouli.pw.toml"
 hash = "3a7eaa64434e7449e5fe6bd089bc784499432dae7d6ca07174b55b10a3b32ec8"
 metafile = true
@@ -838,6 +852,11 @@ metafile = true
 [[files]]
 file = "mods/pneumaticcraft-repressurized.pw.toml"
 hash = "bee123886cf09d6c2e12a25c9a86b21b2c7126d80747415fce8ad4fcfa314335"
+metafile = true
+
+[[files]]
+file = "mods/pretty-pipes.pw.toml"
+hash = "d66dafbe365e449088597a71d181cfa0e91fd1bb61ab98c7c1daaf14e6b9b4d6"
 metafile = true
 
 [[files]]
@@ -1017,6 +1036,10 @@ hash = "9e5ea1bb8d10b5e78c3f0524c11b5cf316ae779fe0737d3509d971316ca71d59"
 [[files]]
 file = "resources/ComputerCraft Bronze V1.1-fixed.zip"
 hash = "2f9f5a07018867f7b644c66d778ac3e170bd774fb36d26649f0ec59bc2a85073"
+
+[[files]]
+file = "resources/Eset's Pretty Pipes Rebalance.zip"
+hash = "d76c37268fc0b66e47c27b8047ee0119dac09fbb3774e86dd7c8025c07e805dc"
 
 [[files]]
 file = "resources/pack_credits.txt"
