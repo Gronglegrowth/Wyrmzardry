@@ -764,7 +764,7 @@
 
 	[bonuses.cave]
 		#Blocks cave dragons gain speed when standing above. Formatting: block/modid:id
-		caveSpeedupBlocks = ["minecraft:base_stone_nether", "minecraft:base_stone_overworld", "minecraft:stone_bricks", "minecraft:beacon_base_blocks", "forge:cobblestone", "forge:sandstone", "forge:stone", "forge:ores", "quark:deepslate", "quark:deepslate_bricks", "quark:cobbled_deepslate", "minecraft:lava", "minecraft:fire", "minecraft:soul_fire", "spectrum:calcites", "spectrum:balsalts", "spectrum:blazing_crystal"]
+		caveSpeedupBlocks = ["minecraft:base_stone_nether", "minecraft:base_stone_overworld", "minecraft:stone_bricks", "minecraft:beacon_base_blocks", "forge:cobblestone", "forge:sandstone", "forge:stone", "forge:ores", "quark:deepslate", "quark:deepslate_bricks", "quark:cobbled_deepslate", "minecraft:lava", "minecraft:fire", "minecraft:soul_fire", "spectrum:calcites", "spectrum:basalts", "spectrum:blazing_crystal", "spectrum:blackslags", "spectrum:shale_clays", "spectrum:pyrite", "spectrum:rock_crystal", "spectrum:basal_marbles"]
 		#The maximum number of ticks a cave dragon can swim in lava. Set to 0 to allow unlimited air while under lava.
 		#Range: 0 ~ 100000
 		lavaSwimTicks = 0

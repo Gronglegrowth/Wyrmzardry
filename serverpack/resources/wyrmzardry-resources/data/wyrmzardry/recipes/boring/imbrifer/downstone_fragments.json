@@ -1,0 +1,15 @@
+{
+  "type": "embers:boring",
+  "dimensions": [
+    "spectrum:deeper_down"
+  ],
+  "max_height": -300,
+  "output": {
+    "item": "spectrum:downstone_fragments"
+  },
+  "required_block": {
+    "amount": 5		,
+    "block_tag": "embers:world_bottom"
+  },
+  "weight": 5
+}
