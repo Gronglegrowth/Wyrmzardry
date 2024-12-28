@@ -9,7 +9,7 @@
   },
   "required_block": {
     "amount": 3,
-    "block_tag": "embers:world_bottom"
+    "block_tag": "wyrmzardry:dd_bottom"
   },
   "weight": 25
 }
