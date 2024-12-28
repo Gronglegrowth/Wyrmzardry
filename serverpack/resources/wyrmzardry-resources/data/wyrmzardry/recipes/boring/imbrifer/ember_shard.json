@@ -1,0 +1,15 @@
+{
+  "type": "embers:boring",
+  "dimensions": [
+    "spectrum:deeper_down"
+  ],
+  "max_height": -300,
+  "output": {
+    "item": "embers:ember_shard"
+  },
+  "required_block": {
+    "amount": 3,
+    "block_tag": "wyrmzardry:dd_bottom"
+  },
+  "weight": 75
+}

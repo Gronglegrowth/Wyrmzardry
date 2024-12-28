@@ -518,7 +518,7 @@ hash = "3e8bbb8906f1c91cdab9148f84c138f74e2b5d16433c77a6b3784968e7ceeedb"
 
 [[files]]
 file = "defaultconfigs/dragonsurvival-server.toml"
-hash = "8199a1f8299f9af1d15416681d5f574d77ba71007df1b8548c88cca6aeb7d044"
+hash = "5fd13470c4b30031e5a014896984502f41efb9878ac01e0d6adf825701b0132a"
 
 [[files]]
 file = "mods/accessories-cc-layer.pw.toml"
@@ -1379,6 +1379,10 @@ file = "resources/wyrmzardry-resources/data/spectrum/recipes/fusion_shrine/night
 hash = "4b514e8e30b943eacf63f773f071faa14eec48c5fd6e8a7e1d25bc0de70b5e78"
 
 [[files]]
+file = "resources/wyrmzardry-resources/data/spectrum/recipes/pedestal/tier1/weeping_gala/amphora.json"
+hash = "9a4272526484f096d0416ef24c6594f945bbbf7aa638bfd43d993f3d975a49bf"
+
+[[files]]
 file = "resources/wyrmzardry-resources/data/spectrum/recipes/pedestal/tier3/omni_accelerator.json"
 hash = "d17b98e5f647fe94230e27275bca08c37e103311063bdea8c2b81a8a6ea38741"
 
@@ -1633,6 +1637,22 @@ hash = "2cc6c16db9faa2c93fa48e17e533b9051eb6db0c8bf3babf7894fbcd59a572d0"
 [[files]]
 file = "resources/wyrmzardry-resources/data/wyrmzardry/recipes/block_heat_properties/frostbite_crystal.json"
 hash = "161f1920d5dffa0636b9b772ac756380c7171977af16cc5e819b6f4dd9027d6d"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/wyrmzardry/recipes/boring/imbrifer/downstone_fragments.json"
+hash = "b11be8fdd4a06267b1895e53929b4d665245668b84727d51e0fd5bb42964f19b"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/wyrmzardry/recipes/boring/imbrifer/ember_crystal.json"
+hash = "2ca4cc56bfe87ebb10ab350b51a6f1af1e3734fc6258b050a8eb2b2832c59aac"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/wyrmzardry/recipes/boring/imbrifer/ember_grit.json"
+hash = "f8e7ca241df7b876560fd92aedf616b144150f095ce6a019688175a1ea33c218"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/wyrmzardry/recipes/boring/imbrifer/ember_shard.json"
+hash = "b7e8d1b4dc00accac1811ba1d9e91d6a1c09d3d0227c6de0f6d871380b9354d5"
 
 [[files]]
 file = "resources/wyrmzardry-resources/data/wyrmzardry/recipes/crafting/crossroads_parts/axle_aluminum.json"
@@ -2065,6 +2085,10 @@ hash = "f9bef06fbb19a762d8bb66ec709b54555ac3a32cce0c7d9fcf79f49c56f2b37a"
 [[files]]
 file = "resources/wyrmzardry-resources/data/wyrmzardry/recipes/stamp_mill/raw_silver.json"
 hash = "22ef7cf253568e42b7859558749e16b8fb6752001cf2af0b83ee75ead4173498"
+
+[[files]]
+file = "resources/wyrmzardry-resources/data/wyrmzardry/tags/blocks/dd_bottom.json"
+hash = "550a39cda50d2e50fdb33e6b9907e2573ff8fb801e3d3a389d105b097a2fbd97"
 
 [[files]]
 file = "resources/wyrmzardry-resources/data/wyrmzardry/tags/items/fertile_soils.json"
