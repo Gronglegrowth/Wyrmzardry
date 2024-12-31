@@ -510,7 +510,7 @@ hash = "a0146e4b893904369ed02d593659dad112cf707539cdff84544aa2fec9cf0fbb"
 
 [[files]]
 file = "config/xycraft/machines_common.toml"
-hash = "e8cce55d3859f531578c7ff5f63bef6c790487ec4113b4993810081b7a55876a"
+hash = "5c753ee46a4be1e587b5966256239afdab7cddb0b66685c326bbe5394d42de79"
 
 [[files]]
 file = "config/zeta-common.toml"
