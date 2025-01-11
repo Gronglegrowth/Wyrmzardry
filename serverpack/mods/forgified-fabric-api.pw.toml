@@ -1,13 +1,7 @@
-name = "Forgified Fabric API"
+name = "forgified-fabric-api"
 filename = "fabric-api-0.92.2+1.11.9+1.20.1.jar"
-side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Aqlf1Shp/versions/2Jm6cdbX/fabric-api-0.92.2%2B1.11.9%2B1.20.1.jar"
-hash-format = "sha1"
-hash = "c3e2030ca7652d3cb05c688c0cb37cccffb93363"
-
-[update]
-[update.modrinth]
-mod-id = "Aqlf1Shp"
-version = "2Jm6cdbX"
+url = "https://github.com/Egassy/Special-pack-files/raw/refs/heads/main/1.20.1/jars/fabric-api-0.92.2+1.11.9+1.20.1.jar"
+hash-format = "sha256"
+hash = "18f8d05244924c551a89d57393c6d22cb58f8117afbba19fd51bc7788e04c55c"
